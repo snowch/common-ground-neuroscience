@@ -4,7 +4,7 @@ A short, original course connecting brain mechanisms with attention, learning, m
 
 Live: https://snowch.github.io/common-ground-neuroscience/
 
-Six chapters, 54 learner-paced pages, 24 original concept figures, 12 decisions, written transfer, retrieval and a final case. Each page, feedback choice and recall answer has its own recorded Kokoro af_heart narration. Paragraph pauses, elapsed/remaining playback time, browser offline saving and portable chapter decks follow the series format. Research stays optional and requires a connection.
+Six chapters, 54 learner-paced pages, 24 original concept figures, 12 decisions, written transfer, retrieval and a final case. Each page, feedback choice and recall answer has its own recorded Kokoro af_heart narration. Paragraph pauses, elapsed/remaining playback time, browser offline saving and portable chapter decks follow the series format. Research notes stay optional and work offline; linked papers and other websites require a connection.
 
 ## Build and verify
 

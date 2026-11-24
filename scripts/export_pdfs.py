@@ -17,15 +17,15 @@ async def main():
   assert int(re.search(r'Pages:\s+(\d+)',info)[1])==sum(len(c['slides'])for c in course),'Unexpected PDF pages would invalidate chapter ranges.'
   for c in course:
    count=len(c['slides']);await page.pdf(path=str(R/f"chapters/chapter-{c['number']:02d}.pdf"),prefer_css_page_size=True,print_background=True,tagged=True,outline=True,page_ranges=f'{offset+1}-{offset+count}');offset+=count
-  (R/'qa/course-review-pdf.json').write_text(json.dumps(dict(pages=offset,chapter_pdfs=10,overflow=bad,content_revision=args.revision),indent=2))
+  (R/'qa/course-review-pdf.json').write_text(json.dumps(dict(pages=offset,chapter_pdfs=len(course),overflow=bad,content_revision=args.revision),indent=2))
   await page.goto(BASE+'/study-guide.html');await page.evaluate('document.fonts.ready')
   await page.pdf(path=str(R/'study-guide.pdf'),prefer_css_page_size=True,print_background=True,tagged=True,outline=True)
   await page.goto(BASE+'/visual-guide.html');await page.evaluate('document.fonts.ready')
-  count=await page.locator('.visual-card').count();assert count>=30
+  count=await page.locator('.visual-card').count();assert count==len(json.loads((R/'visual-models.json').read_text()))
   bad_visuals=await page.locator('.visual-card').evaluate_all('els=>els.filter(e=>e.scrollHeight>e.clientHeight+2).map(e=>e.id)')
   assert not bad_visuals,bad_visuals
   await page.pdf(path=str(R/'visual-guide.pdf'),prefer_css_page_size=True,print_background=True,tagged=True,outline=True)
   info=subprocess.check_output(['pdfinfo',str(R/'visual-guide.pdf')],text=True)
   assert int(re.search(r'Pages:\s+(\d+)',info)[1])==count+1,'Unexpected visual companion pages.'
-  print(f'Updated {offset}-slide PDF, ten chapter PDFs, study companion, and {count}-figure visual companion.',flush=True);await b.close()
+  print(f'Updated {offset}-slide PDF, six chapter PDFs, study companion, and {count}-figure visual companion.',flush=True);await b.close()
 asyncio.run(main())

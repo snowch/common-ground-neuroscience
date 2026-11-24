@@ -11,7 +11,7 @@ function renderLessonFigure(model,key){
  let body=figureText(260,36,model.title,23,'#19394D',38);
  if(model.type==='compare')body+=figurePanel(30,115,220,216,model.left,'#7058A3')+figurePanel(270,115,220,216,model.right,'#216B88');
  if(['rows','flow'].includes(model.type)){
-  model.items.forEach((item,i)=>{const y=93+i*103;body+=`<rect x="42" y="${y}" width="436" height="80" rx="12" fill="#FFF" stroke="${i===0?'#216B88':'#A6BCCB'}" stroke-width="1.7"/>`+figureText(62,y+29,item[0],19,'#216B88',38,'start')+figureText(62,y+58,item[1],18,'#19394D',39,'start');if(model.type==='flow'&&i<model.items.length-1)body+=figureArrow(260,y+81,21);});
+  model.items.forEach((item,i)=>{const y=85+i*90;body+=`<rect x="42" y="${y}" width="436" height="78" rx="12" fill="#FFF" stroke="${i===0?'#216B88':'#A6BCCB'}" stroke-width="1.7"/>`+figureText(62,y+25,item[0],19,'#216B88',34,'start')+figureText(62,y+49,item[1],17,'#19394D',34,'start');if(model.type==='flow'&&i<model.items.length-1)body+=figureArrow(260,y+79,11);});
  }
  if(model.type==='branch'){
   body+=figurePanel(105,101,310,78,[model.start]);
