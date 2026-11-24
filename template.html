@@ -219,7 +219,7 @@ function slideHTML(c,s,printing=false){
  else if(s.kind==='evidence'){body=`<div class="evidence-body">${paragraphs(s.text,c,printing)}</div>`;}
  else{body=`<ul class="slide-points">${s.points.map(p=>`<li>${s.kind==='concept'?conceptPointHTML(p,c,printing):esc(p)}</li>`).join('')}</ul>`;}
  if(s.kind==='recall'){body+=printing||revealed[s.id]?`<div class="answers">${s.answers.map((a,i)=>`<p>${i+1}. ${esc(a)}</p>`).join('')}</div>`:'<button class="reveal" id="reveal">Reveal suggested answers</button>';}
- if(s.kind==='practice'&&!printing&&PRACTICE_LINKS[c.number])body+='<div class="practice-tip"><p>Optional next steps in the series:</p><ul>'+PRACTICE_LINKS[c.number].map(([label,url])=>'<li><a href="'+url+'">'+label+'</a></li>').join('')+'</ul><p>These links open separate learning tools; your course responses are not transferred.</p></div>';
+  if(s.kind==='practice'&&!printing&&PRACTICE_LINKS[c.number])body+='<div class="practice-tip"><p>Optional next steps in the series:</p><ul>'+PRACTICE_LINKS[c.number].map(([label,url])=>`<li><a href="${url}">${esc(label)}</a></li>`).join('')+'</ul><p>These links open separate learning tools; your course responses are not transferred.</p></div>';
   if(s.kind==='practice'&&!printing&&c.number===6)body+='<p><a href="#case">Try the end-of-course case</a></p>';
  if(s.kind==='practice')body+='<p class="practice-tip">Revisit tomorrow and in a week.<br>Explain it without notes, then use a different example.</p>';
  const caption=['concept','evidence'].includes(s.kind)?diagramCaption(c,s):s.kind==='story'?(printing?'A fictional story. A real question about people.':'Fictional café case'):printing?(s.kind==='practice'?'Take the question into a different setting.':'Jo, Sam and Leo at the repair café.'):'';

@@ -1,0 +1,133 @@
+{
+  "method": "Additional independent transcription of flagged clips and chapter explanation samples; not listening approval.",
+  "clips": [
+    {
+      "id": "c01s02-feedback-2",
+      "expected": "Different explanatory levels can contribute. A contextual observation does not make biology irrelevant.",
+      "heard": "Different explanatory levels can contribute. A contextual observation does not make biology irrelevant.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 6.827,
+      "wpm": 114.3,
+      "peak": 0.450927734375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "2288483aec61e9485c5ac107c2744edb73c115e7cf539105f054377124d48013"
+    },
+    {
+      "id": "c01s03",
+      "expected": "Neuroscience asks how nervous-system processes support Sam’s performance. Cognitive psychology asks how Sam understood and remembered the instructions. Behavioural science asks which conditions influence the action and whether a proposed change helps. These questions can inform one another.\n\nA neural account does not make the changed form irrelevant. Start with the missed details, ask Sam what happened, and compare possible explanations. Understanding a mechanism and establishing a useful intervention require different evidence.",
+      "heard": "Neuroscience asks how nervous system processes support Sam's performance. Cognitive psychology asks how Sam understood and remembered the instructions. Behavioral science asks which conditions influence the action and whether a proposed change helps. These questions can inform one another. A neural account does not make the changed form irrelevant. Start with the missed details, ask Sam what happened, and compare possible explanations. Understanding a mechanism and establishing a useful intervention require different evidence.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 34.399,
+      "wpm": 129.8,
+      "peak": 0.551239013671875,
+      "flags": [],
+      "raw_sha256": "7a321af117b33fb8fb578d8a76df0df5d2da5147cb1121f8f8d02b9b22ec99d5"
+    },
+    {
+      "id": "c02s03",
+      "expected": "Attention prioritises information, while working memory helps maintain and use what the next action requires. Jo must keep a label detail available while following a checking rule. A task can become harder when several demands compete.\n\nDistributed nervous-system processes support these functions; a single concentration score does not explain every lapse. A written checkpoint may reduce what has to be held in mind. To judge it, examine whether the relevant information is noticed and the check is completed accurately, not whether the person looks intensely focused.",
+      "heard": "Attention prioritizes information, while working memory helps maintain and use what the next action requires. Joe must keep a label detail available while following a checking rule. A task can become harder when several demands compete. Distributed nervous system processes support these functions. A single concentration score does not explain every lapse. A written checkpoint may reduce what has to be held in mind. To judge it, examine whether the relevant information is noticed and the check is completed accurately, not whether the person looks intensely focused.",
+      "ratio": 0.9885,
+      "model": "small.en",
+      "duration": 36.298,
+      "wpm": 146.4,
+      "peak": 0.6485595703125,
+      "flags": [],
+      "raw_sha256": "c8fb485ab74da8af2698c179cbf44cf3f6e71abeb3c0b6b22e4467f49f3869a3"
+    },
+    {
+      "id": "c02s06-feedback-1",
+      "expected": "This distinguishes the measures and supports investigation without drawing a diagnosis.",
+      "heard": "This distinguishes the measures and supports investigation without drawing a diagnosis.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 6.504,
+      "wpm": 119.9,
+      "peak": 0.416595458984375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "efbe1d421333da0b62420a5408a0ab27f4d9a6656881dfb660cfa400fd407548"
+    },
+    {
+      "id": "c03s03",
+      "expected": "Declarative memory supports reporting a fact or event. Skill learning concerns improvement in performing an activity through experience. The hippocampus and nearby structures are important for forming new declarative memories. Skill learning recruits other interacting systems, including circuits involving the striatum and cerebellum. These are useful distinctions, not perfectly isolated boxes.\n\nSam’s smooth routine does not establish that Sam can explain a new fault, and a correct explanation does not establish fluent tool use. State the capability you want: recall a principle, recognise a case or perform a sequence. Then choose a practice and a check that match it.",
+      "heard": "Declarative memory supports reporting a fact or event. Skill learning concerns improvement in performing an activity through experience. The hippocampus and nearby structures are important for forming new declarative memories. Skill learning recruits other interacting systems, including circuits involving the striatum and cerebellum. These are useful distinctions, not perfectly isolated boxes. SAM's smooth routine does not establish that SAM can explain a new fault and a correct explanation does not establish fluent tool use. State the capability you want, recall a principle, recognize a case, or perform a sequence. Then choose a practice and a check that match it.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 42.677,
+      "wpm": 141.3,
+      "peak": 0.50738525390625,
+      "flags": [],
+      "raw_sha256": "bf56d137f9cbf50bf6680f7bf9e3451c4b22db34b61e5c92f40f089c8a947dd8"
+    },
+    {
+      "id": "c04s03",
+      "expected": "Dopamine contributes to several functions. In reward-learning research, activity in studied dopamine pathways can track a reward prediction error: an outcome differs from what was expected. After learning, a cue can predict a reward, so the studied response is not simply a measure of how pleasant the reward feels. It is not a single pleasure or willpower level.\n\nLeo’s phone checking does not tell us his dopamine level. The immediate expectation of news is one possible part of the learned pattern, but workload, the guide’s difficulty and access to tools may also matter. A mechanism should improve the questions we ask, not become a diagnosis from an ordinary action.",
+      "heard": "Dopamine contributes to several functions. In reward-learning research, activity in studied dopamine pathways can track a reward prediction error. An outcome differs from what was expected. After learning, a cue can predict a reward, so the studied response is not simply a measure of how pleasant the reward feels. It is not a single pleasure or willpower level. Leo's phone checking does not tell us his dopamine level. The immediate expectation of news is one possible part of the learned pattern, but workload, the guide's difficulty and access to tools may also matter. A mechanism should improve the questions we ask, not become a diagnosis from an ordinary action.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 42.975,
+      "wpm": 155.9,
+      "peak": 0.6580810546875,
+      "flags": [],
+      "raw_sha256": "f9a97566e891b2c9216c1e821da04292cb9b2aba2820754bddbe8299660c4afa"
+    },
+    {
+      "id": "c05s03",
+      "expected": "Arousal describes physiological activation; it does not identify a unique emotion or its cause. Appraisal concerns what a situation means to the person. Emotion regulation can involve changing the situation, attention, interpretation or response.\n\nJo’s pulse does not tell us whether the experience is fear, frustration, exertion or something else. Ask about the situation and Jo’s account. Interacting brain and body processes support emotional responses, but naming one region would not settle what happened or make a preferred exercise the right response.",
+      "heard": "Arousal describes physiological activation. It does not identify a unique emotion or its cause. Appraisal concerns what a situation means to the person. Emotion regulation can involve changing the situation, attention, interpretation, or response. Joe's pulse does not tell us whether the experience is fear, frustration, exertion, or something else. Ask about the situation and Joe's account. Interacting brain and body processes support emotional responses but naming one region would not settle what happened or make a preferred exercise the right response.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 38.559,
+      "wpm": 129.8,
+      "peak": 0.64044189453125,
+      "flags": [],
+      "raw_sha256": "072e76f69d17eb5f009b87ec9e88e254d625f208ee63d7c10905d28615fecbbb"
+    },
+    {
+      "id": "c05s06-feedback-2",
+      "expected": "One physiological value cannot by itself establish recovery or improved daily functioning.",
+      "heard": "One physiological value cannot by itself establish recovery or improved daily functioning.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 7.293,
+      "wpm": 114.4,
+      "peak": 0.377166748046875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "a2c729bdcafae52a4d0be769a121c37d38753ad66883d2c9c21d844ffcaf729f"
+    },
+    {
+      "id": "c05s07-answers",
+      "expected": "Arousal has several possible influences, and regions participate in interacting processes. Jo’s account, the task and relevant comparisons are needed.\n\nA misunderstanding may call for clarification or reappraisal; conflicting instructions or lack of cover may require practical change. Personal and environmental responses can be combined.",
+      "heard": "Arousal has several possible influences and regions participate in interacting processes. Joe's account, the task and relevant comparisons are needed. A misunderstanding may call for clarification or reappraisal. Conflicting instructions or lack of cover may require practical change. Personal and environmental responses can be combined. You",
+      "ratio": 0.989,
+      "model": "small.en",
+      "duration": 24.477,
+      "wpm": 118.3,
+      "peak": 0.471649169921875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "a9d06bdae2c957fab58447ff0acbfd5f1181654fc3e568fb789147ea93b1beb8"
+    },
+    {
+      "id": "c06s03",
+      "expected": "Incubation describes a pattern in problem-solving research: people return after a period away from a problem. Mind wandering is one possible feature of that interval, not a guarantee that useful work is occurring unconsciously. Effects depend on the problem and the intervening activity.\n\nLeo first needs to understand the label problem. A feasible undemanding break can then be one option to try before returning. Missing information may instead call for investigation. The popular Jack Reacher label is the writer’s analogy, not an established neuroscience protocol or a reason to expect automatic solutions.",
+      "heard": "Incubation describes a pattern in problem-solving research. People return after a period away from a problem. Mind wandering is one possible feature of that interval, not a guarantee that useful work is occurring unconsciously. Effects depend on the problem and the intervening activity. Leo first needs to understand the label problem. A feasible undemanding break can then be one option to try before returning. Missing information may instead call for investigation. The popular Jack Reacher label is the writer's analogy, not an established neuroscience protocol or a reason to expect automatic solutions.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 40.117,
+      "wpm": 141.4,
+      "peak": 0.425262451171875,
+      "flags": [],
+      "raw_sha256": "3eb2a80d4b687a5461114ae281a166b293dc25995ead4add3dc8ade0128f53fa"
+    }
+  ]
+}

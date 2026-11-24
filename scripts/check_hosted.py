@@ -7,7 +7,7 @@ p=argparse.ArgumentParser(description=__doc__);p.add_argument('--output',default
 manifest=json.loads((R/'audio/manifest.json').read_text());clips={x['id']:x for x in manifest['clips']}
 chapter_clip_counts={f"chapter-{c['number']:02d}":sum(x['id'].startswith(f"c{c['number']:02d}") for x in manifest['clips']) for c in json.loads((R/'course.json').read_text())}
 font_notice=(R/'FONT-LICENSE.txt').read_text();asset_notice=(R/'THIRD-PARTY-NOTICES.txt').read_text()
-files=[D/'index.html',*sorted((D/'chapters').glob('*.html')),D/'study-guide.html',D/'visual-guide.html',D/'downloads.html',D/'offline.html'];assert len(files)==15
+files=[D/'index.html',*sorted((D/'chapters').glob('*.html')),D/'study-guide.html',D/'visual-guide.html',D/'downloads.html',D/'offline.html'];assert len(files)==len(chapter_clip_counts)+5
 mappings=0;links=0
 for file in files:
  s=file.read_text();assert not re.search(r'__[A-Z_]+__',s),file
