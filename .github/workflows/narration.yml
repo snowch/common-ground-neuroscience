@@ -1,0 +1,59 @@
+name: Produce reviewed narration assets
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: narration-production
+  cancel-in-progress: false
+jobs:
+  record:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    strategy:
+      fail-fast: false
+      matrix:
+        part: [0, 1, 2, 3]
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0
+        with:
+          python-version: '3.12'
+      - name: Install production tools
+        run: |
+          python -m pip install uv==0.13.6
+          if ! command -v ffmpeg; then sudo apt-get update && sudo apt-get install -y ffmpeg; fi
+      - name: Render and independently screen a disjoint part
+        run: python3 production/render_part.py ${{ matrix.part }}
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: narration-part-${{ matrix.part }}
+          retention-days: 2
+          path: out/part-${{ matrix.part }}/
+  assemble:
+    needs: record
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0
+        with:
+          python-version: '3.12'
+      - uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093
+        with:
+          pattern: narration-part-*
+          path: out/parts
+      - name: Merge verified recordings and encode the complete course
+        run: |
+          if ! command -v ffmpeg; then sudo apt-get update && sudo apt-get install -y ffmpeg; fi
+          python3 production/assemble_parts.py
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: narration-assets
+          retention-days: 7
+          path: |
+            audio/
+            production/af-heart/audio/
+            qa/narration-asr.json
+            qa/narration-small-review.json
+            qa/narration-ci-provenance.json

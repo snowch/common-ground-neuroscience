@@ -1,0 +1,104 @@
+{
+  "1": {
+    "prompt": "What conclusion is supported by this result?",
+    "options": [
+      "The changed signal proves better everyday concentration.",
+      "The device has identified each person’s ideal learning style.",
+      "The signal changed in this study; useful everyday improvement needs its own comparison."
+    ],
+    "correct": 2,
+    "feedback": [
+      "A measured difference is not the same outcome as successful everyday performance.",
+      "An average signal difference does not establish an individual matching rule or learning-style category.",
+      "This separates the observed measurement from the practical claim that still needs testing."
+    ],
+    "context": "A fictional workshop reports a brain-signal change after training but measures no change in work accuracy or daily functioning.",
+    "reasoningPrompt": "Explain your choice. What evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "neuroscience-v1"
+  },
+  "2": {
+    "prompt": "Which interpretation is proportionate?",
+    "options": [
+      "The learner’s confidence proves the quiz was invalid.",
+      "Experience and task performance differ; investigate conditions and use both appropriately.",
+      "The result proves a permanent memory impairment."
+    ],
+    "correct": 1,
+    "feedback": [
+      "Confidence is useful information about experience but does not invalidate a relevant performance measure on its own.",
+      "This distinguishes the measures and supports investigation without drawing a diagnosis.",
+      "One result and a report of tiredness cannot establish a permanent impairment."
+    ],
+    "context": "A learner says they feel used to late nights, but makes more omissions on a comparable low-stakes practice task.",
+    "reasoningPrompt": "Explain your choice. What evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "neuroscience-v1"
+  },
+  "3": {
+    "prompt": "What is needed to support the broader claim?",
+    "options": [
+      "A relevant untrained reasoning outcome and an appropriate comparison, not just the game score.",
+      "More repetitions of the same game without measuring anything else.",
+      "A statement that all practice changes the brain."
+    ],
+    "correct": 0,
+    "feedback": [
+      "This tests the proposed transfer rather than assuming it from trained performance.",
+      "Further trained improvement would still leave the untrained claim untested.",
+      "A general statement about plasticity does not establish the direction, benefit or transfer of this intervention."
+    ],
+    "context": "A course advertises better everyday reasoning because participants improve on its memory game.",
+    "reasoningPrompt": "Explain your choice. What evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "neuroscience-v1"
+  },
+  "4": {
+    "prompt": "What does this show most directly?",
+    "options": [
+      "The change helped in these recorded opportunities; other differences and longer-term usefulness still matter.",
+      "The phone change proves the person has corrected a dopamine deficit.",
+      "Every person should remove all notifications regardless of their responsibilities."
+    ],
+    "correct": 0,
+    "feedback": [
+      "This keeps the observed action and context in view without making a biological diagnosis or a universal claim.",
+      "No neurotransmitter deficit was measured, and task improvement would not establish one.",
+      "Some notifications are necessary. A useful arrangement needs to fit the person’s actual responsibilities."
+    ],
+    "context": "A volunteer silences an optional alert during several feasible sessions and completes more planned paragraphs. The sessions were not randomly assigned.",
+    "reasoningPrompt": "Explain your choice. What evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "neuroscience-v1"
+  },
+  "5": {
+    "prompt": "What should be checked before accepting the claim?",
+    "options": [
+      "Whether any brain change is mentioned in the advert.",
+      "The measured outcomes, comparison and whether workload and other conditions changed.",
+      "Whether a single pulse reading returns to a preferred value."
+    ],
+    "correct": 1,
+    "feedback": [
+      "A brain-related description does not establish the claimed benefit or the relevant comparison.",
+      "This separates a proposed mechanism from evidence about functioning and the conditions that may explain a change.",
+      "One physiological value cannot by itself establish recovery or improved daily functioning."
+    ],
+    "context": "A fictional workshop claims to remove chronic stress because participants report feeling calmer immediately afterwards.",
+    "reasoningPrompt": "Explain your choice. What evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "neuroscience-v1"
+  },
+  "6": {
+    "prompt": "What conclusion fits the observations?",
+    "options": [
+      "The break has proved a universal creative advantage for every task.",
+      "A larger list makes further testing unnecessary.",
+      "Idea generation increased in this attempt; quality, cost and alternative explanations still need checking."
+    ],
+    "correct": 2,
+    "feedback": [
+      "One attempt with a particular task cannot establish a general causal advantage.",
+      "Ideas can be varied yet impractical. The design requirements still need evaluation.",
+      "This separates the observed list from claims about correctness, usefulness and general benefit."
+    ],
+    "context": "A designer lists more possible layouts after a break, but has not checked whether any layout contains all required information.",
+    "reasoningPrompt": "Explain your choice. What evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "neuroscience-v1"
+  }
+}

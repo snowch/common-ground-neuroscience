@@ -1,0 +1,470 @@
+{
+  "c01s03": {
+    "type": "rows",
+    "title": "Three questions about one missed detail",
+    "items": [
+      [
+        "Nervous system",
+        "Which processes support the task?"
+      ],
+      [
+        "Thinking",
+        "What had to be noticed and remembered?"
+      ],
+      [
+        "Action in context",
+        "Would clearer instructions improve checking?"
+      ]
+    ],
+    "caption": "These are overlapping perspectives, not three competing descriptions of different people."
+  },
+  "c01s03b": {
+    "type": "compare",
+    "title": "Observe a signal; examine the inference",
+    "left": [
+      "Observation",
+      "A task condition differs",
+      "A measured signal differs"
+    ],
+    "right": [
+      "Interpretation",
+      "Which processes could contribute?",
+      "How specific is the evidence?"
+    ],
+    "caption": "A brain image is a measurement with a comparison, not a direct label for a person’s thoughts."
+  },
+  "c01s04": {
+    "type": "flow",
+    "title": "From explanation to a useful test",
+    "items": [
+      [
+        "Specify",
+        "An action and meaningful outcome"
+      ],
+      [
+        "Explain",
+        "Several plausible mechanisms"
+      ],
+      [
+        "Compare",
+        "A change with an appropriate alternative"
+      ],
+      [
+        "Review",
+        "Benefit, burden and remaining uncertainty"
+      ]
+    ],
+    "caption": "The goal is better decisions, not a more impressive-sounding label."
+  },
+  "c01s05": {
+    "type": "flow",
+    "title": "Keep three statements separate",
+    "items": [
+      [
+        "Observed",
+        "What was actually measured?"
+      ],
+      [
+        "Explained",
+        "Which process is proposed?"
+      ],
+      [
+        "Recommended",
+        "What change and useful outcome follow?"
+      ]
+    ],
+    "caption": "A persuasive story is not yet evidence for each link."
+  },
+  "c02s03": {
+    "type": "flow",
+    "title": "Make the next action inspectable",
+    "items": [
+      [
+        "Select",
+        "Which detail matters now?"
+      ],
+      [
+        "Keep available",
+        "Use memory or an accessible external cue"
+      ],
+      [
+        "Act",
+        "Apply the rule and check the result"
+      ]
+    ],
+    "caption": "An external aid changes the task demand; it is not evidence of a weaker person."
+  },
+  "c02s03b": {
+    "type": "compare",
+    "title": "A return needs a place",
+    "left": [
+      "Interruption",
+      "A different request arrives",
+      "The task context changes"
+    ],
+    "right": [
+      "Prepared return",
+      "Mark the completed step",
+      "Name the next check"
+    ],
+    "caption": "Reducing optional switching can help a specified task without requiring constant uninterrupted work."
+  },
+  "c02s04": {
+    "type": "rows",
+    "title": "Ask about more than confidence",
+    "items": [
+      [
+        "Experience",
+        "How does the person describe this shift?"
+      ],
+      [
+        "Performance",
+        "What relevant task outcome changed?"
+      ],
+      [
+        "Conditions",
+        "What demands and recovery opportunities differed?"
+      ]
+    ],
+    "caption": "A state hypothesis is a reason to investigate conditions, not an individual diagnosis."
+  },
+  "c02s05": {
+    "type": "rows",
+    "title": "A useful attention support",
+    "items": [
+      [
+        "Target",
+        "Define the step and meaningful result"
+      ],
+      [
+        "Support",
+        "Change one feasible demand or cue"
+      ],
+      [
+        "Review",
+        "Accuracy, effort, access and other differences"
+      ]
+    ],
+    "caption": "A quieter-looking task is not automatically a more successful one."
+  },
+  "c03s03": {
+    "type": "compare",
+    "title": "Different evidence for different learning",
+    "left": [
+      "Explain",
+      "State the principle without notes",
+      "Check the account"
+    ],
+    "right": [
+      "Perform",
+      "Carry out the relevant sequence",
+      "Check the result"
+    ],
+    "caption": "Success in one memory demand does not establish success in every other demand."
+  },
+  "c03s03b": {
+    "type": "flow",
+    "title": "Three different claims",
+    "items": [
+      [
+        "Practice",
+        "Performance on the trained task changes"
+      ],
+      [
+        "Measurement",
+        "A nervous-system measure changes"
+      ],
+      [
+        "Transfer",
+        "A relevant untrained outcome improves"
+      ]
+    ],
+    "caption": "Evidence for one claim does not automatically establish the others."
+  },
+  "c03s04": {
+    "type": "flow",
+    "title": "Attempt, check and return",
+    "items": [
+      [
+        "Attempt",
+        "Explain or perform before seeing the answer"
+      ],
+      [
+        "Check",
+        "Use a trustworthy source or result"
+      ],
+      [
+        "Return",
+        "Try later and include a new example"
+      ]
+    ],
+    "caption": "A feasible learning cycle should target the capability you want to use."
+  },
+  "c03s05": {
+    "type": "rows",
+    "title": "Choose a check that matches the claim",
+    "items": [
+      [
+        "Trained skill",
+        "Can I do what I practised?"
+      ],
+      [
+        "Understanding",
+        "Can I explain and correct the idea?"
+      ],
+      [
+        "Transfer",
+        "Can I use it on a relevant unfamiliar case?"
+      ]
+    ],
+    "caption": "Different claims call for different checks; confidence alone is not all three."
+  },
+  "c04s03": {
+    "type": "compare",
+    "title": "A learning signal; a much broader claim",
+    "left": [
+      "Studied signal",
+      "Compare expected and received outcomes",
+      "Specify the task and pathway"
+    ],
+    "right": [
+      "Everyday behaviour",
+      "Phone checking has several possible influences",
+      "Do not read a chemical level from it"
+    ],
+    "caption": "A scientific term cannot replace the missing observation and comparison."
+  },
+  "c04s03b": {
+    "type": "flow",
+    "title": "Investigate the routine",
+    "items": [
+      [
+        "Cue",
+        "What happens before the response?"
+      ],
+      [
+        "Response",
+        "What does the person do?"
+      ],
+      [
+        "Consequence",
+        "What does that provide now?"
+      ],
+      [
+        "Conditions",
+        "What else enables or blocks the intended action?"
+      ]
+    ],
+    "caption": "A useful habit explanation includes the setting and competing goals."
+  },
+  "c04s04": {
+    "type": "rows",
+    "title": "Prepare a feasible next action",
+    "items": [
+      [
+        "Meaning",
+        "What outcome matters to the person?"
+      ],
+      [
+        "Opportunity",
+        "Are time, access and the next step available?"
+      ],
+      [
+        "Plan",
+        "At this cue, take this concrete action"
+      ],
+      [
+        "Review",
+        "What happened and what did it cost?"
+      ]
+    ],
+    "caption": "A specific plan helps only if its situation and action are workable."
+  },
+  "c04s05": {
+    "type": "flow",
+    "title": "A mechanism should improve a practical question",
+    "items": [
+      [
+        "Notice",
+        "A response in a particular setting"
+      ],
+      [
+        "Ask",
+        "Cue, consequence, goal and access"
+      ],
+      [
+        "Try",
+        "One feasible, chosen change"
+      ],
+      [
+        "Review",
+        "Action, usefulness and unwanted effects"
+      ]
+    ],
+    "caption": "A personal trial can inform a choice without diagnosing a chemical state."
+  },
+  "c05s03": {
+    "type": "rows",
+    "title": "Separate the parts of the account",
+    "items": [
+      [
+        "Observe",
+        "A higher pulse and a sharp reply"
+      ],
+      [
+        "Ask",
+        "What did the situation mean to Jo?"
+      ],
+      [
+        "Compare",
+        "Which practical or personal response fits?"
+      ]
+    ],
+    "caption": "No single physiological observation identifies another person’s emotion."
+  },
+  "c05s03b": {
+    "type": "compare",
+    "title": "Different responses address different problems",
+    "left": [
+      "Interpretation",
+      "Check a possible misunderstanding",
+      "Try a suitable clarification"
+    ],
+    "right": [
+      "Conditions",
+      "Resolve conflicting instructions",
+      "Arrange workable cover and recovery"
+    ],
+    "caption": "A personal skill and an environmental change can complement one another."
+  },
+  "c05s04": {
+    "type": "flow",
+    "title": "Make room for recovery",
+    "items": [
+      [
+        "Demands",
+        "What is being required, and for how long?"
+      ],
+      [
+        "Opportunity",
+        "Can the person rest or obtain support?"
+      ],
+      [
+        "Response",
+        "Choose a feasible change in the arrangement"
+      ],
+      [
+        "Review",
+        "Functioning, experience and remaining constraints"
+      ]
+    ],
+    "caption": "Recovery should not depend on meeting a productivity score first."
+  },
+  "c05s05": {
+    "type": "rows",
+    "title": "Match the response to the difficulty",
+    "items": [
+      [
+        "Understanding",
+        "Ask what the situation means to the person"
+      ],
+      [
+        "Practical conditions",
+        "Change an identified demand or access problem"
+      ],
+      [
+        "Personal skill",
+        "Use an optional strategy that fits"
+      ],
+      [
+        "Recovery",
+        "Consider rest, support and what remains difficult"
+      ]
+    ],
+    "caption": "A calmer feeling is one outcome; it is not the whole explanation or every practical goal."
+  },
+  "c06s03": {
+    "type": "flow",
+    "title": "Prepare, pause and return",
+    "items": [
+      [
+        "Prepare",
+        "State the problem and what you tried"
+      ],
+      [
+        "Pause",
+        "Use a feasible undemanding activity"
+      ],
+      [
+        "Return",
+        "Generate possibilities and inspect them"
+      ],
+      [
+        "Check",
+        "Test the idea against the actual requirements"
+      ]
+    ],
+    "caption": "A break is one part of a learning and checking cycle."
+  },
+  "c06s03b": {
+    "type": "compare",
+    "title": "Generate; then judge the result",
+    "left": [
+      "Possibilities",
+      "What different layouts could we try?",
+      "Count relevant, distinct ideas"
+    ],
+    "right": [
+      "Checking",
+      "Which layout meets the requirements?",
+      "Inspect accuracy and usability"
+    ],
+    "caption": "A larger idea count is not automatically a better final solution."
+  },
+  "c06s04": {
+    "type": "rows",
+    "title": "Ask what the practical evidence shows",
+    "items": [
+      [
+        "Mechanism",
+        "Which processes or networks are proposed?"
+      ],
+      [
+        "Comparison",
+        "What was changed and compared?"
+      ],
+      [
+        "Outcome",
+        "Ideas, accuracy or real-world usefulness?"
+      ],
+      [
+        "Application",
+        "Does the setting and cost fit this person?"
+      ]
+    ],
+    "caption": "A neural explanation can guide questions without establishing the intervention’s benefit."
+  },
+  "c06s05": {
+    "type": "flow",
+    "title": "Judge a useful change",
+    "items": [
+      [
+        "Define",
+        "The outcome you care about"
+      ],
+      [
+        "Prepare",
+        "A feasible change and comparator"
+      ],
+      [
+        "Observe",
+        "What happened and what else differed?"
+      ],
+      [
+        "Decide",
+        "Keep, adapt or stop with uncertainty visible"
+      ]
+    ],
+    "caption": "Understanding a mechanism and improving an everyday outcome remain connected but distinct tasks."
+  }
+}

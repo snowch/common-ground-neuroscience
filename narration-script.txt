@@ -1,0 +1,527 @@
+c01s01 Chapter 1: A brain explanation should help us ask better questions
+Sam misses two details while checking in a repair. Leo calls it a weak attention circuit. Jo notices that the booking instructions changed and the desk is unusually noisy. Sam says the new form was confusing. A poster offers a brain scan to find each volunteer’s ideal routine. The team wants to understand what happened before purchasing an explanation.
+
+c01s02 Chapter 1: Make a first decision
+First, make a prediction about the café story.
+
+What should the team do first?
+
+A. Treat Leo’s circuit explanation as the diagnosis and buy the scan.
+
+B. Inspect the task, ask Sam and compare plausible causes of the missed details.
+
+C. Reject all nervous-system evidence because the form also changed.
+
+Choose an option before checking the feedback.
+
+c01s02-feedback-0 Chapter 1: feedback 1
+The label does not supply evidence about the task or establish what the proposed scan can determine.
+
+c01s02-feedback-1 Chapter 1: feedback 2
+This makes room for neural, cognitive and contextual explanations without assuming which one is responsible.
+
+c01s02-feedback-2 Chapter 1: feedback 3
+Different explanatory levels can contribute. A contextual observation does not make biology irrelevant.
+
+c01s03 Chapter 1: One event can have several useful explanations.
+Neuroscience asks how nervous-system processes support Sam’s performance. Cognitive psychology asks how Sam understood and remembered the instructions. Behavioural science asks which conditions influence the action and whether a proposed change helps. These questions can inform one another.
+
+A neural account does not make the changed form irrelevant. Start with the missed details, ask Sam what happened, and compare possible explanations. Understanding a mechanism and establishing a useful intervention require different evidence.
+
+c01s03b Chapter 1: A brain measurement has an interpretation.
+A neural association links a measured signal with a condition or performance. It may help constrain an explanation without settling what caused the difference. Reverse inference goes in the other direction: from a brain observation to a claim about someone’s mental process.
+
+That inference needs evidence about how specific the signal is, the comparison and the wider task. A region can participate in several processes. Lesion or controlled stimulation comparisons can help test causal roles, but the affected networks and task still need consideration. Seeing a signal associated with attention would not, by itself, establish why Sam missed a detail or reveal a stable personal weakness.
+
+c01s04 Chapter 1: Useful change needs an outcome that matters.
+A mechanism explains how something might happen. An intervention changes a condition, and an outcome states what would count as useful improvement. A plausible mechanism can guide a proposal; it cannot substitute for checking the outcome.
+
+The café could compare checking accuracy with two equally accessible instruction layouts. It would also ask about effort and missed information. A different brain signal after a workshop would not establish that visitors receive more accurate bookings. Choose the practical question before choosing a measurement.
+
+c01s05 Chapter 1: What does the evidence allow?
+Neuroscience adds evidence about nervous-system processes and their constraints. Psychological studies and intervention comparisons answer related questions about thinking and action. Brain measurements can narrow explanations, but a correlation does not by itself identify a cause.
+
+Reverse inference depends on the specificity of a signal and prior evidence; it is not automatically invalid or automatically justified. This fictional café case contains no measurements. A useful assessment would compare relevant conditions and meaningful outcomes, while asking the person rather than diagnosing from a distance.
+
+c01s06 Chapter 1: Apply the distinction
+Apply the idea to this new fictional case.
+
+A fictional workshop reports a brain-signal change after training but measures no change in work accuracy or daily functioning.
+
+What conclusion is supported by this result?
+
+A. The changed signal proves better everyday concentration.
+
+B. The device has identified each person’s ideal learning style.
+
+C. The signal changed in this study; useful everyday improvement needs its own comparison.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c01s06-feedback-0 Chapter 1: feedback 1
+A measured difference is not the same outcome as successful everyday performance.
+
+c01s06-feedback-1 Chapter 1: feedback 2
+An average signal difference does not establish an individual matching rule or learning-style category.
+
+c01s06-feedback-2 Chapter 1: feedback 3
+This separates the observed measurement from the practical claim that still needs testing.
+
+c01s07 Chapter 1: Explain it without the notes
+Try these questions without your notes.
+
+What different questions can neuroscience, cognitive psychology and behavioural science ask?
+
+What is missing when a changed brain signal is treated as proof of a useful intervention?
+
+Reveal the suggested answers after trying.
+
+c01s07-answers Chapter 1: recall answers
+They can examine nervous-system processes, thinking processes, and actions in context. The perspectives overlap and need a defined observation and comparison.
+
+The practical outcome, a relevant comparator and evidence connecting the change to that outcome are still needed. A signal alone does not settle benefit or individual fit.
+
+c01s08 Chapter 1: Take the idea into everyday life
+Choose a public brain-related headline or a fictional claim. Write the actual observation, the proposed explanation and the practical recommendation separately. Name one missing comparison; do not label a real person from the headline.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c02s01 Chapter 2: Attention depends on the task and the conditions
+Jo is checking a repair label while a phone alert arrives and Leo asks a question. Jo returns to the label and repeats the previous step. Later, during a quieter shift, the same task goes smoothly. Leo proposes a concentration score for every volunteer. Jo would prefer to examine the interruptions, the instructions and how the shift was arranged.
+
+c02s02 Chapter 2: Make a first decision
+First, make a prediction about the café story.
+
+Which first change best fits Jo’s account?
+
+A. Try a clear return marker and review accuracy and effort during feasible shifts.
+
+B. Use one lapse to assign Jo a permanent low-attention category.
+
+C. Measure only how many alerts Jo can ignore, regardless of the checking task.
+
+Choose an option before checking the feedback.
+
+c02s02-feedback-0 Chapter 2: feedback 1
+This addresses a specific return demand and checks an outcome that matters, while leaving other explanations open.
+
+c02s02-feedback-1 Chapter 2: feedback 2
+A lapse in one set of conditions does not establish a stable category or its cause.
+
+c02s02-feedback-2 Chapter 2: feedback 3
+Ignoring alerts is not itself the goal. Some requests are necessary, and the task outcome still matters.
+
+c02s03 Chapter 2: Select the information the next action needs.
+Attention prioritises information, while working memory helps maintain and use what the next action requires. Jo must keep a label detail available while following a checking rule. A task can become harder when several demands compete.
+
+Distributed nervous-system processes support these functions; a single concentration score does not explain every lapse. A written checkpoint may reduce what has to be held in mind. To judge it, examine whether the relevant information is noticed and the check is completed accurately, not whether the person looks intensely focused.
+
+c02s03b Chapter 2: Changing tasks can require changing the rule.
+Task switching can require reactivating a rule, remembering where you stopped and inhibiting an earlier response. A switch cost is a measured performance difference in a defined comparison, not a universal number of lost minutes.
+
+Jo’s interruption may create a return problem rather than a lack of motivation. A marker saying “label checked; confirm contact detail next” offers a concrete return. Necessary interruptions still matter. Compare accuracy, time and access before deciding which optional demands to change.
+
+c02s04 Chapter 2: Feeling adapted is not a performance measure.
+A state such as fatigue can vary across occasions. A subjective report tells us how the person feels; vigilance tasks measure a specified kind of sustained performance. These measures are related questions, not interchangeable ones.
+
+In a sleep-restriction experiment, performance deficits accumulated while subjective sleepiness did not track them fully. That does not diagnose Jo from a single lapse. It suggests checking workload and recovery opportunities alongside interruptions, rather than treating confidence or one bad shift as a complete measure of capacity.
+
+c02s05 Chapter 2: What does the evidence allow?
+Task-switching studies compare defined tasks and conditions; they do not establish one fixed recovery time for every interruption. Sleep-restriction findings show that subjective experience and measured vigilance can diverge in studied conditions. Do not reduce sleep to recreate the experiment.
+
+For ordinary improvement, choose a feasible support such as a clear checkpoint or fewer optional alerts, then judge the intended outcome and its costs. Neural control accounts explain possible constraints, while behavioural comparisons are still needed to establish whether the support helps in this setting.
+
+c02s06 Chapter 2: Apply the distinction
+Apply the idea to this new fictional case.
+
+A learner says they feel used to late nights, but makes more omissions on a comparable low-stakes practice task.
+
+Which interpretation is proportionate?
+
+A. The learner’s confidence proves the quiz was invalid.
+
+B. Experience and task performance differ; investigate conditions and use both appropriately.
+
+C. The result proves a permanent memory impairment.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c02s06-feedback-0 Chapter 2: feedback 1
+Confidence is useful information about experience but does not invalidate a relevant performance measure on its own.
+
+c02s06-feedback-1 Chapter 2: feedback 2
+This distinguishes the measures and supports investigation without drawing a diagnosis.
+
+c02s06-feedback-2 Chapter 2: feedback 3
+One result and a report of tiredness cannot establish a permanent impairment.
+
+c02s07 Chapter 2: Explain it without the notes
+Try these questions without your notes.
+
+How do attention and working memory contribute different things to a task?
+
+Why compare experience, performance and conditions rather than infer a trait from one lapse?
+
+Reveal the suggested answers after trying.
+
+c02s07-answers Chapter 2: recall answers
+Attention prioritises information; working memory maintains and uses information needed now. External supports can change the demand on those processes.
+
+The measures answer different questions, and states and contexts can change. A single observation does not settle the cause or a stable personal capacity.
+
+c02s08 Chapter 2: Take the idea into everyday life
+Choose an ordinary task you already do. Identify its next relevant detail and leave a clear return marker before an optional interruption. Notice accuracy, effort and whether the arrangement fits your responsibilities. Do not restrict sleep or remove necessary contact to test the idea.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c03s01 Chapter 3: Learning changes systems through specific experience
+Sam can follow a familiar repair sequence smoothly but struggles to explain a new fault from memory. Leo suggests a brain-training game that promises general mental improvement. Jo proposes a smaller question: what does Sam want to remember or do, and which practice would reveal that skill? They agree that a higher game score would need a separate link to better repairs.
+
+c03s02 Chapter 3: Make a first decision
+First, make a prediction about the café story.
+
+What should decide Sam’s practice first?
+
+A. Which game produces the brightest-looking brain image.
+
+B. Whether one high game score can stand in for every learning outcome.
+
+C. The particular explanation or skill Sam wants to use and how to check it.
+
+Choose an option before checking the feedback.
+
+c03s02-feedback-0 Chapter 3: feedback 1
+An image does not identify the learning goal or establish that a game supports it.
+
+c03s02-feedback-1 Chapter 3: feedback 2
+A game score measures performance on that game; transfer to repair work needs separate evidence.
+
+c03s02-feedback-2 Chapter 3: feedback 3
+This aligns the practice and its feedback with a meaningful capability.
+
+c03s03 Chapter 3: Remembering is not one undivided ability.
+Declarative memory supports reporting a fact or event. Skill learning concerns improvement in performing an activity through experience. The hippocampus and nearby structures are important for forming new declarative memories. Skill learning recruits other interacting systems, including circuits involving the striatum and cerebellum. These are useful distinctions, not perfectly isolated boxes.
+
+Sam’s smooth routine does not establish that Sam can explain a new fault, and a correct explanation does not establish fluent tool use. State the capability you want: recall a principle, recognise a case or perform a sequence. Then choose a practice and a check that match it.
+
+c03s03b Chapter 3: Plasticity is a capacity, not a guarantee.
+Neuroplasticity describes changes in nervous-system structure or function. It does not specify whether a change is useful, how large it is or whether it transfers to another outcome. Transfer needs evidence beyond success on the trained task.
+
+Training studies can relate practice to measured brain changes, while reviews of brain-training programmes question broad everyday claims. A colourful before-and-after image does not establish better judgement at the repair desk. Check the actual trained outcome and the untrained outcome separately, using an appropriate comparison.
+
+c03s04 Chapter 3: Make the practice reveal the learning.
+Retrieval practice asks Sam to produce an explanation before looking. Distributed practice separates attempts over time. Reviews of learning techniques support these practices across many studied conditions, but useful questions and intervals depend on the learning goal.
+
+Sam could explain one fault, compare it with a trustworthy source and return later with an unfamiliar example. Feedback supplies corrections instead of rehearsing an unchecked answer. Neuroscience helps explain why learning has mechanisms and limits; the practical recommendation still needs evidence about what Sam can actually remember or do.
+
+c03s05 Chapter 3: What does the evidence allow?
+Memory-systems research draws on several kinds of evidence, including neurological cases, animal work and human experiments. No single system label describes everything a person can remember. Plasticity findings likewise need interpretation of the measure and task.
+
+Evidence supports practice testing and distributed practice in many learning settings; it does not establish one timetable for every learner or topic. Brain-training reviews distinguish gains on trained tasks from broader transfer. For Sam, the meaningful check is a relevant explanation or repair outcome, not a brain score presented without that link.
+
+c03s06 Chapter 3: Apply the distinction
+Apply the idea to this new fictional case.
+
+A course advertises better everyday reasoning because participants improve on its memory game.
+
+What is needed to support the broader claim?
+
+A. A relevant untrained reasoning outcome and an appropriate comparison, not just the game score.
+
+B. More repetitions of the same game without measuring anything else.
+
+C. A statement that all practice changes the brain.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c03s06-feedback-0 Chapter 3: feedback 1
+This tests the proposed transfer rather than assuming it from trained performance.
+
+c03s06-feedback-1 Chapter 3: feedback 2
+Further trained improvement would still leave the untrained claim untested.
+
+c03s06-feedback-2 Chapter 3: feedback 3
+A general statement about plasticity does not establish the direction, benefit or transfer of this intervention.
+
+c03s07 Chapter 3: Explain it without the notes
+Try these questions without your notes.
+
+Why distinguish trained improvement, a neural change and transfer?
+
+How could Sam combine retrieval, correction and a later new example?
+
+Reveal the suggested answers after trying.
+
+c03s07-answers Chapter 3: recall answers
+They are different outcomes. A trained gain or a changed brain measure does not alone establish useful improvement elsewhere.
+
+Attempt an explanation without notes, check it against a trustworthy source, record a correction and return at a feasible later point with an unfamiliar case.
+
+c03s08 Chapter 3: Take the idea into everyday life
+Choose one small topic or skill you already want to learn. Attempt it before checking, use appropriate feedback and leave a question for a feasible later return. Include a new example at review. Judge the capability you practised rather than claiming a general brain upgrade.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c04s01 Chapter 4: Motivation is learning in a situation
+Leo wants to finish a repair guide but keeps checking his phone after a notification. He calls the problem low dopamine and considers a reset routine. Jo asks what the alert predicts, what checking provides and whether the guide has a clear next step. Leo also realises the relevant test device is locked away. They have several possible barriers to examine.
+
+c04s02 Chapter 4: Make a first decision
+First, make a prediction about the café story.
+
+Which question would most improve Leo’s explanation?
+
+A. Which dopamine label best describes Leo from his phone checking alone?
+
+B. What does checking provide, and what conditions block the guide-writing step?
+
+C. How can the same strict rule be imposed on every volunteer?
+
+Choose an option before checking the feedback.
+
+c04s02-feedback-0 Chapter 4: feedback 1
+An ordinary behaviour does not provide a measurement of a neurotransmitter level.
+
+c04s02-feedback-1 Chapter 4: feedback 2
+This investigates reward, learning and practical constraints without assuming a single cause.
+
+c04s02-feedback-2 Chapter 4: feedback 3
+A uniform rule can miss different goals, access needs and explanations for the behaviour.
+
+c04s03 Chapter 4: A reward signal is not a motivation gauge.
+Dopamine contributes to several functions. In reward-learning research, activity in studied dopamine pathways can track a reward prediction error: an outcome differs from what was expected. After learning, a cue can predict a reward, so the studied response is not simply a measure of how pleasant the reward feels. It is not a single pleasure or willpower level.
+
+Leo’s phone checking does not tell us his dopamine level. The immediate expectation of news is one possible part of the learned pattern, but workload, the guide’s difficulty and access to tools may also matter. A mechanism should improve the questions we ask, not become a diagnosis from an ordinary action.
+
+c04s03b Chapter 4: A cue can make a response more likely.
+A habit is a learned response tendency in a familiar context. Outcome value can also change with the situation: an update may be interesting now and unimportant later. Habitual and goal-directed influences can coexist.
+
+An alert, a familiar pause and an easy check may help explain Leo’s pattern. If the aim is a useful guide-writing session, one option is to change an optional alert or leave the next paragraph ready. Ask what checking provides before choosing an alternative. Removing a cue cannot supply the locked test device.
+
+c04s04 Chapter 4: Choose the change by its effect and its costs.
+An implementation intention links a situation to a response. Feasibility asks whether the action can happen under the actual conditions. Leo might plan to open the prepared paragraph after the desk closes, once the test device is available.
+
+A small visible result may make the session easier to judge. Keep the goal personally meaningful and notice the burden as well as whether the action occurred. Neuroscience does not, by itself, select gradual reduction, swapping or stopping a particular cue. Those choices need attention to preferences, conditions and observed effects.
+
+c04s05 Chapter 4: What does the evidence allow?
+Reward-prediction findings concern specified tasks, pathways and comparisons. They do not let us infer a personal dopamine level from scrolling, a craving or a missed intention. Habits research likewise treats learned responses within a context, rather than equating every repeated action with an addiction.
+
+Specific planning can support action in studied settings, but the proposed café arrangement is an application to evaluate. Keep the person’s goal and practical opportunity visible. A change in one routine does not establish a biological reset or identify a universally best method.
+
+c04s06 Chapter 4: Apply the distinction
+Apply the idea to this new fictional case.
+
+A volunteer silences an optional alert during several feasible sessions and completes more planned paragraphs. The sessions were not randomly assigned.
+
+What does this show most directly?
+
+A. The change helped in these recorded opportunities; other differences and longer-term usefulness still matter.
+
+B. The phone change proves the person has corrected a dopamine deficit.
+
+C. Every person should remove all notifications regardless of their responsibilities.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c04s06-feedback-0 Chapter 4: feedback 1
+This keeps the observed action and context in view without making a biological diagnosis or a universal claim.
+
+c04s06-feedback-1 Chapter 4: feedback 2
+No neurotransmitter deficit was measured, and task improvement would not establish one.
+
+c04s06-feedback-2 Chapter 4: feedback 3
+Some notifications are necessary. A useful arrangement needs to fit the person’s actual responsibilities.
+
+c04s07 Chapter 4: Explain it without the notes
+Try these questions without your notes.
+
+What does a reward prediction error describe, and what can phone checking not establish?
+
+How can cue, consequence and practical opportunity inform a change?
+
+Reveal the suggested answers after trying.
+
+c04s07-answers Chapter 4: recall answers
+It describes a difference between an expected and received reward in a learning account. Phone checking alone cannot establish a dopamine level, deficiency or diagnosis.
+
+Ask what prompts the action, what it provides and what enables the intended alternative. Choose a feasible response and review benefit and burden.
+
+c04s08 Chapter 4: Take the idea into everyday life
+Choose one low-stakes action you want to make easier. Describe its cue, immediate consequence and a practical barrier. Prepare one voluntary change and a specific next step, then review what happened. Do not change medication or use a deprivation routine to test a neurotransmitter story.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c05s01 Chapter 5: Emotion and recovery belong to a context
+The café is understaffed, the queue is noisy and Jo replies sharply to a visitor. A wrist device shows a higher pulse. Leo concludes that Jo’s fear centre has taken over and suggests breathing instead of changing the rota. Jo says the instructions conflict and there has been no feasible break. A bodily observation, an interpretation and a service problem have been mixed together.
+
+c05s02 Chapter 5: Make a first decision
+First, make a prediction about the café story.
+
+Which response best fits the café problem?
+
+A. Treat the wrist reading as proof of one emotion and its cause.
+
+B. Use breathing as the only response while leaving every demand unchanged.
+
+C. Ask Jo, resolve the conflicting instructions and consider feasible recovery alongside optional personal skills.
+
+Choose an option before checking the feedback.
+
+c05s02-feedback-0 Chapter 5: feedback 1
+Pulse is an observation with several possible influences, not a unique emotion diagnosis.
+
+c05s02-feedback-1 Chapter 5: feedback 2
+A personal exercise may be useful, but it does not resolve the identified staffing and instruction problems.
+
+c05s02-feedback-2 Chapter 5: feedback 3
+This responds to the person and conditions without treating a signal or a technique as the whole explanation.
+
+c05s03 Chapter 5: A bodily signal is one part of an account.
+Arousal describes physiological activation; it does not identify a unique emotion or its cause. Appraisal concerns what a situation means to the person. Emotion regulation can involve changing the situation, attention, interpretation or response.
+
+Jo’s pulse does not tell us whether the experience is fear, frustration, exertion or something else. Ask about the situation and Jo’s account. Interacting brain and body processes support emotional responses, but naming one region would not settle what happened or make a preferred exercise the right response.
+
+c05s03b Chapter 5: Change the demand when the demand is the problem.
+A stress response involves coordinated brain and body processes, including autonomic activity and hormonal signalling. These can mobilise resources while also changing how attention and control operate. Its effects depend on the demand, duration, control and wider circumstances. Reappraisal changes an interpretation; it cannot supply missing staffing or resolve conflicting instructions by itself.
+
+A manageable misunderstanding might be clarified by asking a question. A persistent queue problem may need clearer roles, capacity or access to breaks. Choose the response that fits the actual difficulty. Mechanistic stress research offers possible explanations and constraints, not a direct diagnosis of Jo or proof that one regulation strategy suits every situation.
+
+c05s04 Chapter 5: Recovery is a condition, not a reward for output.
+Circadian timing and sleep pressure contribute to when sleep is possible and needed. Memory consolidation concerns changes that stabilise or reorganise memories over time; sleep can contribute to learning and memory under studied conditions. These processes are not a promise that sleeping will solve every task.
+
+For the café, the useful questions include workload, recovery opportunity and whether the next shift is feasible. Rest and enjoyable activity can matter in their own right. A personal routine cannot remove every institutional demand, and one wearable reading does not establish recovery or a sleep-stage diagnosis.
+
+c05s05 Chapter 5: What does the evidence allow?
+Emotion and stress involve interacting systems and contexts. Neural and physiological measures can inform an account, but one pulse value or brain-region label cannot establish a unique feeling, cause or suitable response. Some stress mechanisms are studied in animals or specialised human tasks; transfer to an everyday recommendation needs its own reasoning.
+
+Sleep contributes to several functions, including memory, but a wearable’s estimate is not equivalent to a laboratory sleep-stage measurement. Keep practical constraints visible and do not deprive yourself of sleep to test this material. These lessons support interpretation, not diagnosis or treatment.
+
+c05s06 Chapter 5: Apply the distinction
+Apply the idea to this new fictional case.
+
+A fictional workshop claims to remove chronic stress because participants report feeling calmer immediately afterwards.
+
+What should be checked before accepting the claim?
+
+A. Whether any brain change is mentioned in the advert.
+
+B. The measured outcomes, comparison and whether workload and other conditions changed.
+
+C. Whether a single pulse reading returns to a preferred value.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c05s06-feedback-0 Chapter 5: feedback 1
+A brain-related description does not establish the claimed benefit or the relevant comparison.
+
+c05s06-feedback-1 Chapter 5: feedback 2
+This separates a proposed mechanism from evidence about functioning and the conditions that may explain a change.
+
+c05s06-feedback-2 Chapter 5: feedback 3
+One physiological value cannot by itself establish recovery or improved daily functioning.
+
+c05s07 Chapter 5: Explain it without the notes
+Try these questions without your notes.
+
+Why do arousal and a brain-region label not identify Jo’s emotion by themselves?
+
+When might changing an interpretation differ from changing conditions or recovery opportunity?
+
+Reveal the suggested answers after trying.
+
+c05s07-answers Chapter 5: recall answers
+Arousal has several possible influences, and regions participate in interacting processes. Jo’s account, the task and relevant comparisons are needed.
+
+A misunderstanding may call for clarification or reappraisal; conflicting instructions or lack of cover may require practical change. Personal and environmental responses can be combined.
+
+c05s08 Chapter 5: Take the idea into everyday life
+Use a fictional ordinary frustration, or an example you find manageable. Separate the observation, interpretation and practical conditions. Propose a clarification, a change in the arrangement and a feasible recovery opportunity. Choose what fits; do not infer another person’s feelings from a device.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c06s01 Chapter 6: Step away, return and check the idea
+Leo is stuck designing a clearer repair-label layout. A headline recommends the Jack Reacher Method: stop trying and let the brain solve it. Sam suggests writing the problem and what has already been tried, taking a feasible undemanding break, then returning to compare ideas. Jo wants to know whether a walk helps generate possibilities, choose a correct answer or both.
+
+c06s02 Chapter 6: Make a first decision
+First, make a prediction about the café story.
+
+What would make the headline useful to test?
+
+A. Specify a problem, initial attempt, feasible break and meaningful return outcome.
+
+B. Assume a resting brain guarantees that any answer arriving later is correct.
+
+C. Use idea quantity as proof that every practical requirement has been met.
+
+Choose an option before checking the feedback.
+
+c06s02-feedback-0 Chapter 6: feedback 1
+This turns an appealing claim into a defined, reviewable application without treating the mechanism as proof.
+
+c06s02-feedback-1 Chapter 6: feedback 2
+A later thought still needs evaluation, and resting activity does not establish its cause or correctness.
+
+c06s02-feedback-2 Chapter 6: feedback 3
+Generating ideas and checking requirements are different outcomes. Both can matter.
+
+c06s03 Chapter 6: A break has a before and an after.
+Incubation describes a pattern in problem-solving research: people return after a period away from a problem. Mind wandering is one possible feature of that interval, not a guarantee that useful work is occurring unconsciously. Effects depend on the problem and the intervening activity.
+
+Leo first needs to understand the label problem. A feasible undemanding break can then be one option to try before returning. Missing information may instead call for investigation. The popular Jack Reacher label is the writer’s analogy, not an established neuroscience protocol or a reason to expect automatic solutions.
+
+c06s03b Chapter 6: More ideas and a correct answer are different outcomes.
+Divergent thinking concerns generating possibilities; convergent thinking concerns selecting or checking a suitable answer. A result on one kind of task does not automatically generalise to the other.
+
+Walking experiments found benefits for idea generation under their study conditions, with a different pattern on a task requiring a single related answer. This does not establish a fixed percentage improvement for all problems. Leo can collect several label designs after a break, then check readability, missing details and accessibility. A fluent idea still needs evaluation.
+
+c06s04 Chapter 6: A brain account still needs a behavioural test.
+The default mode network is associated with several internally oriented processes. Executive control supports goal-directed responding. Creativity research examines interactions between networks; it does not describe a single creativity switch that turns on whenever attention turns off.
+
+Resting activity is not proof that Leo’s particular problem is being solved. A useful trial would define the problem, the break or comparator, the return task and the outcome. Compare useful ideas and the quality of the checked result, while noticing time and burden. A personally helpful routine can remain a bounded finding.
+
+c06s05 Chapter 6: What does the evidence allow?
+Incubation and walking studies offer evidence about defined problems, intervals and outcomes. Undemanding activity has helped in some creative-task comparisons, particularly after initial exposure, but mind wandering is not a guaranteed cause of insight. Results do not mean that every break, every walk or doing nothing improves every problem.
+
+Resting-state and network studies inform possible accounts of internally directed thought and control. They do not prove that a named popular method works. For an everyday trial, prepare, pause, return and check. For a strong causal claim, a suitable design and repeated, relevant evidence are needed beyond a few personal observations.
+
+c06s06 Chapter 6: Apply the distinction
+Apply the idea to this new fictional case.
+
+A designer lists more possible layouts after a break, but has not checked whether any layout contains all required information.
+
+What conclusion fits the observations?
+
+A. The break has proved a universal creative advantage for every task.
+
+B. A larger list makes further testing unnecessary.
+
+C. Idea generation increased in this attempt; quality, cost and alternative explanations still need checking.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c06s06-feedback-0 Chapter 6: feedback 1
+One attempt with a particular task cannot establish a general causal advantage.
+
+c06s06-feedback-1 Chapter 6: feedback 2
+Ideas can be varied yet impractical. The design requirements still need evaluation.
+
+c06s06-feedback-2 Chapter 6: feedback 3
+This separates the observed list from claims about correctness, usefulness and general benefit.
+
+c06s07 Chapter 6: Explain it without the notes
+Try these questions without your notes.
+
+How do incubation, divergent thinking and convergent checking answer different questions?
+
+Why does brain activity during rest not establish that a problem-solving recommendation works?
+
+Reveal the suggested answers after trying.
+
+c06s07-answers Chapter 6: recall answers
+Incubation concerns returning after time away; divergent thinking concerns generating possibilities; convergent checking concerns a suitable or correct answer. Success on one outcome does not establish success on all three.
+
+The activity needs interpretation and a relevant comparison. Practical benefit still requires measured outcomes, an appropriate test and attention to the person and setting.
+
+c06s08 Chapter 6: Take the idea into everyday life
+Choose a low-stakes problem you already understand. Write what is needed and what you tried, take a feasible undemanding break if you want, then return to generate and check ideas. Record usefulness and cost, not a supposed brain score. A seated or otherwise accessible activity can be your practical option.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.

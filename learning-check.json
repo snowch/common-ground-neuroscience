@@ -1,0 +1,74 @@
+{
+  "title": "Try a new case",
+  "caseTitle": "The evening repair pilot",
+  "subtitle": "An optional written transfer check after the six chapters",
+  "intro": "Try this fictional case without your notes. Allow fifteen to twenty minutes. Write somewhere private; this page does not collect or grade your answers. Compare with the suggested reasoning after your attempt.",
+  "paragraphs": [
+    "The fictional Common Ground café is planning an evening pilot. The team wants fewer missed label details and clearer repair explanations. Several volunteers report fatigue, and the shift has frequent interruptions and conflicting instructions.",
+    "A supplier offers a brain-score workshop and promises better attention, motivation and creativity. It shows an average before-and-after neural-signal difference but no comparison group or everyday outcome. Leo suggests adding a mandatory walking break and a phone ban.",
+    "Jo proposes an accessible return marker, reliable access to the test device and optional practice on a specific explanation. Sam wants to keep necessary messages available, protect feasible recovery and evaluate whether the changes serve visitors as well as volunteers. No pilot results exist yet."
+  ],
+  "tasks": [
+    {
+      "title": "Separate the explanation and the claim",
+      "chapters": [
+        1,
+        2
+      ],
+      "prompt": "Distinguish the observed problems, the supplier’s mechanism claim and a meaningful attention outcome. Name an alternative explanation.",
+      "answer": "Missed details and reported fatigue are observations; the supplier’s brain account is a proposal, not a measured cause. Checking accuracy and effort on relevant tasks are meaningful outcomes. Interrupted rules, confusing instructions and recovery conditions are alternatives to investigate. A signal difference does not establish benefit."
+    },
+    {
+      "title": "Choose practice that fits the capability",
+      "chapters": [
+        3
+      ],
+      "prompt": "Propose a small learning cycle and a separate check of transfer. Explain what a brain-training score would leave unresolved.",
+      "answer": "Attempt an explanation before checking, correct it with a trustworthy source, and return at a feasible later point. Use an unfamiliar relevant fault to examine transfer. Improved performance on the supplier’s task or a neural measure would not alone establish better repair reasoning."
+    },
+    {
+      "title": "Explain a missed intention without reading a chemical level",
+      "chapters": [
+        4
+      ],
+      "prompt": "Use cues, consequences and opportunity to improve the phone proposal. Include one feasible plan and an observation that could challenge it.",
+      "answer": "Ask which messages are necessary, what checking provides and whether the intended next action is ready. A voluntary plan could silence one optional cue while the prepared paragraph and test device are available. If the guide remains blocked by missing equipment, the cue explanation is insufficient. No dopamine level is measured by scrolling."
+    },
+    {
+      "title": "Respond to emotion and recovery in context",
+      "chapters": [
+        2,
+        5
+      ],
+      "prompt": "Compare a personal skill with a practical change, and explain why a pulse value or a report of feeling adapted is not a complete evaluation.",
+      "answer": "A suitable clarification or optional personal strategy can accompany clearer instructions, staffing and recovery opportunities. A pulse value does not identify a unique emotion. Subjective adaptation and task performance can diverge. Review experience and functioning without inducing sleep loss or claiming a diagnosis."
+    },
+    {
+      "title": "Design a bounded problem-solving and improvement trial",
+      "chapters": [
+        1,
+        6
+      ],
+      "prompt": "Turn the walking claim into an accessible proposal. Specify the initial work, comparator, outcomes, burden and a review decision.",
+      "answer": "Define a low-stakes problem and an initial attempt. Compare a feasible undemanding break or accessible alternative with a relevant current approach, while recognising task differences and expectations. Separate relevant ideas from a checked useful solution; include time, access and burden. A short personal pilot can guide adaptation, while a causal or universal claim needs stronger evidence. Keep, revise or stop rather than treating a brain explanation as proof."
+    }
+  ],
+  "rubric": [
+    {
+      "title": "Accurate distinctions",
+      "strong": "Explains the relevant concepts and separates observations from interpretations.",
+      "developing": "Adds labels without explaining how the evidence supports them."
+    },
+    {
+      "title": "Evidence and alternatives",
+      "strong": "Considers competing explanations and a comparison that could distinguish them.",
+      "developing": "Treats a plausible account, score or correlation as a settled cause."
+    },
+    {
+      "title": "Proportionate application",
+      "strong": "States limitations, respects the people involved and explains what would change the recommendation.",
+      "developing": "Overgeneralizes to individuals or makes a recommendation beyond the evidence."
+    }
+  ],
+  "followup": "Return tomorrow or in a week with an unfamiliar example. Compare the quality of your explanation, not just your confidence. This self-check does not certify professional competence or establish general mastery."
+}

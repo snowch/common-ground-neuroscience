@@ -1,0 +1,55 @@
+{
+  "1": {
+    "Neuroscience": "Study of nervous-system processes supporting behaviour and experience.",
+    "Cognitive psychology": "Study of processes such as attention, memory and reasoning.",
+    "Behavioural science": "Study of behaviour and influences on action, including context and interventions.",
+    "Neural association": "A relationship between a nervous-system measure and an observed condition.",
+    "Reverse inference": "Inferring a mental process from a neural observation.",
+    "Mechanism": "A proposed process linking conditions to an outcome.",
+    "Intervention": "A deliberate change whose effects can be evaluated.",
+    "Outcome": "A result chosen to judge whether a change is useful."
+  },
+  "2": {
+    "Attention": "Selection and prioritisation of information for a task.",
+    "Working memory": "Temporary maintenance and use of information needed now.",
+    "Task switching": "Moving between task sets or rules.",
+    "Switch cost": "A performance difference associated with changing tasks under specified conditions.",
+    "State": "A current condition that can change over time.",
+    "Subjective report": "A person’s account of their experience.",
+    "Vigilance": "Sustained readiness to detect relevant events."
+  },
+  "3": {
+    "Declarative memory": "Memory for facts and events that can be consciously reported.",
+    "Skill learning": "Improvement in performing a task through experience.",
+    "Neuroplasticity": "Change in nervous-system structure or function associated with experience or other conditions.",
+    "Transfer": "An effect of learning on an outcome beyond the trained task.",
+    "Retrieval practice": "Attempting to produce learned information before checking it.",
+    "Distributed practice": "Spreading practice across separated occasions."
+  },
+  "4": {
+    "Dopamine": "A neurotransmitter involved in several nervous-system functions.",
+    "Reward prediction error": "A difference between an expected and received reward in a learning account.",
+    "Habit": "A learned tendency for a response to be prompted by a familiar context.",
+    "Outcome value": "How worthwhile a consequence is in the current situation.",
+    "Implementation intention": "A plan linking a specified situation to a response.",
+    "Feasibility": "Whether an action is workable under the actual conditions."
+  },
+  "5": {
+    "Arousal": "A dimension of physiological activation.",
+    "Appraisal": "An interpretation of what a situation means.",
+    "Emotion regulation": "Processes that influence an emotional response and its course.",
+    "Stress response": "A coordinated response to demands or perceived challenge.",
+    "Reappraisal": "Changing an interpretation of a situation.",
+    "Circadian timing": "Daily biological timing that influences sleep and wakefulness.",
+    "Sleep pressure": "The tendency to sleep that builds during wakefulness.",
+    "Memory consolidation": "Processes that stabilise or reorganise memories over time."
+  },
+  "6": {
+    "Incubation": "Improvement after a period away from a previously encountered problem.",
+    "Mind wandering": "Thought that shifts away from the current external task.",
+    "Divergent thinking": "Generating varied possible ideas or responses.",
+    "Convergent thinking": "Working towards a suitable or correct answer under constraints.",
+    "Default mode network": "A set of interacting regions associated with several internally oriented processes.",
+    "Executive control": "Processes that help maintain goals and guide task-relevant responses."
+  }
+}

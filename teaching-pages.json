@@ -1,0 +1,1241 @@
+{
+  "1": [
+    {
+      "id": "c01s03",
+      "kind": "concept",
+      "title": "One event can have several useful explanations.",
+      "points": [
+        "Neuroscience: study of nervous-system processes supporting behaviour and experience",
+        "Cognitive psychology: study of processes such as attention, memory and reasoning",
+        "Behavioural science: study of behaviour and influences on action, including context and interventions"
+      ],
+      "text": "Neuroscience asks how nervous-system processes support Sam’s performance. Cognitive psychology asks how Sam understood and remembered the instructions. Behavioural science asks which conditions influence the action and whether a proposed change helps. These questions can inform one another.\n\nA neural account does not make the changed form irrelevant. Start with the missed details, ask Sam what happened, and compare possible explanations. Understanding a mechanism and establishing a useful intervention require different evidence.",
+      "stage": "Explanation",
+      "visual": "c01s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a claim about a person, distinguish neural evidence, psychological explanation and behavioural intervention, and identify what remains uncertain."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Neuroscience adds evidence about nervous-system processes and their constraints. Psychological studies and intervention comparisons answer related questions about thinking and action. Brain measurements can narrow explanations, but a correlation does not by itself identify a cause.\n\nReverse inference depends on the specificity of a signal and prior evidence; it is not automatically invalid or automatically justified. This fictional café case contains no measurements. A useful assessment would compare relevant conditions and meaningful outcomes, while asking the person rather than diagnosing from a distance."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from these sources. These are overlapping perspectives, not three competing descriptions of different people."
+          }
+        ],
+        "sources": [
+          {
+            "title": "POLDRACK (2006): Can cognitive processes be inferred from neuroimaging data?",
+            "url": "https://doi.org/10.1016/j.tics.2005.12.004",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: The brain and spinal cord",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-4-the-brain-and-spinal-cord",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c01s03b",
+      "kind": "concept",
+      "title": "A brain measurement has an interpretation.",
+      "points": [
+        "Neural association: a relationship between a nervous-system measure and an observed condition",
+        "Reverse inference: inferring a mental process from a neural observation"
+      ],
+      "text": "A neural association links a measured signal with a condition or performance. It may help constrain an explanation without settling what caused the difference. Reverse inference goes in the other direction: from a brain observation to a claim about someone’s mental process.\n\nThat inference needs evidence about how specific the signal is, the comparison and the wider task. A region can participate in several processes. Lesion or controlled stimulation comparisons can help test causal roles, but the affected networks and task still need consideration. Seeing a signal associated with attention would not, by itself, establish why Sam missed a detail or reveal a stable personal weakness.",
+      "stage": "Explanation",
+      "visual": "c01s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a claim about a person, distinguish neural evidence, psychological explanation and behavioural intervention, and identify what remains uncertain."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Neuroscience adds evidence about nervous-system processes and their constraints. Psychological studies and intervention comparisons answer related questions about thinking and action. Brain measurements can narrow explanations, but a correlation does not by itself identify a cause.\n\nReverse inference depends on the specificity of a signal and prior evidence; it is not automatically invalid or automatically justified. This fictional café case contains no measurements. A useful assessment would compare relevant conditions and meaningful outcomes, while asking the person rather than diagnosing from a distance."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from these sources. A brain image is a measurement with a comparison, not a direct label for a person’s thoughts."
+          }
+        ],
+        "sources": [
+          {
+            "title": "POLDRACK (2006): Can cognitive processes be inferred from neuroimaging data?",
+            "url": "https://doi.org/10.1016/j.tics.2005.12.004",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: The brain and spinal cord",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-4-the-brain-and-spinal-cord",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c01s04",
+      "kind": "concept",
+      "title": "Useful change needs an outcome that matters.",
+      "points": [
+        "Mechanism: a proposed process linking conditions to an outcome",
+        "Intervention: a deliberate change whose effects can be evaluated",
+        "Outcome: a result chosen to judge whether a change is useful"
+      ],
+      "text": "A mechanism explains how something might happen. An intervention changes a condition, and an outcome states what would count as useful improvement. A plausible mechanism can guide a proposal; it cannot substitute for checking the outcome.\n\nThe café could compare checking accuracy with two equally accessible instruction layouts. It would also ask about effort and missed information. A different brain signal after a workshop would not establish that visitors receive more accurate bookings. Choose the practical question before choosing a measurement.",
+      "stage": "Explanation",
+      "visual": "c01s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a claim about a person, distinguish neural evidence, psychological explanation and behavioural intervention, and identify what remains uncertain."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Neuroscience adds evidence about nervous-system processes and their constraints. Psychological studies and intervention comparisons answer related questions about thinking and action. Brain measurements can narrow explanations, but a correlation does not by itself identify a cause.\n\nReverse inference depends on the specificity of a signal and prior evidence; it is not automatically invalid or automatically justified. This fictional café case contains no measurements. A useful assessment would compare relevant conditions and meaningful outcomes, while asking the person rather than diagnosing from a distance."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from these sources. The goal is better decisions, not a more impressive-sounding label."
+          }
+        ],
+        "sources": [
+          {
+            "title": "POLDRACK (2006): Can cognitive processes be inferred from neuroimaging data?",
+            "url": "https://doi.org/10.1016/j.tics.2005.12.004",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: The brain and spinal cord",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-4-the-brain-and-spinal-cord",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c01s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Neuroscience adds evidence about nervous-system processes and their constraints. Psychological studies and intervention comparisons answer related questions about thinking and action. Brain measurements can narrow explanations, but a correlation does not by itself identify a cause.\n\nReverse inference depends on the specificity of a signal and prior evidence; it is not automatically invalid or automatically justified. This fictional café case contains no measurements. A useful assessment would compare relevant conditions and meaningful outcomes, while asking the person rather than diagnosing from a distance.",
+      "stage": "Evidence check",
+      "visual": "c01s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a claim about a person, distinguish neural evidence, psychological explanation and behavioural intervention, and identify what remains uncertain."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Neuroscience adds evidence about nervous-system processes and their constraints. Psychological studies and intervention comparisons answer related questions about thinking and action. Brain measurements can narrow explanations, but a correlation does not by itself identify a cause.\n\nReverse inference depends on the specificity of a signal and prior evidence; it is not automatically invalid or automatically justified. This fictional café case contains no measurements. A useful assessment would compare relevant conditions and meaningful outcomes, while asking the person rather than diagnosing from a distance."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from these sources. A persuasive story is not yet evidence for each link."
+          }
+        ],
+        "sources": [
+          {
+            "title": "POLDRACK (2006): Can cognitive processes be inferred from neuroimaging data?",
+            "url": "https://doi.org/10.1016/j.tics.2005.12.004",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: The brain and spinal cord",
+            "url": "https://openstax.org/books/psychology-2e/pages/3-4-the-brain-and-spinal-cord",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    }
+  ],
+  "2": [
+    {
+      "id": "c02s03",
+      "kind": "concept",
+      "title": "Select the information the next action needs.",
+      "points": [
+        "Attention: selection and prioritisation of information for a task",
+        "Working memory: temporary maintenance and use of information needed now"
+      ],
+      "text": "Attention prioritises information, while working memory helps maintain and use what the next action requires. Jo must keep a label detail available while following a checking rule. A task can become harder when several demands compete.\n\nDistributed nervous-system processes support these functions; a single concentration score does not explain every lapse. A written checkpoint may reduce what has to be held in mind. To judge it, examine whether the relevant information is noticed and the check is completed accurately, not whether the person looks intensely focused.",
+      "stage": "Explanation",
+      "visual": "c02s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a performance problem, distinguish selection, working-memory demands, switching costs and current state, then choose a relevant support and outcome."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Task-switching studies compare defined tasks and conditions; they do not establish one fixed recovery time for every interruption. Sleep-restriction findings show that subjective experience and measured vigilance can diverge in studied conditions. Do not reduce sleep to recreate the experiment.\n\nFor ordinary improvement, choose a feasible support such as a clear checkpoint or fewer optional alerts, then judge the intended outcome and its costs. Neural control accounts explain possible constraints, while behavioural comparisons are still needed to establish whether the support helps in this setting."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from these sources. An external aid changes the task demand; it is not evidence of a weaker person."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Miller, Cohen (2001): An Integrative Theory of Prefrontal Cortex Function",
+            "url": "https://doi.org/10.1146/annurev.neuro.24.1.167",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Rubinstein, Meyer, Evans (2001): Executive control of cognitive processes in task switching.",
+            "url": "https://doi.org/10.1037/0096-1523.27.4.763",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Van Dongen, Maislin, Mullington (2003): The Cumulative Cost of Additional Wakefulness: Dose-Response Effects on Neurobehavioral Functions and Sleep Physiology From Chronic Sleep Restriction and Total Sleep Deprivation",
+            "url": "https://doi.org/10.1093/sleep/26.2.117",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Sleep and why we sleep",
+            "url": "https://openstax.org/books/psychology-2e/pages/4-2-sleep-and-why-we-sleep",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c02s03b",
+      "kind": "concept",
+      "title": "Changing tasks can require changing the rule.",
+      "points": [
+        "Task switching: moving between task sets or rules",
+        "Switch cost: a performance difference associated with changing tasks under specified conditions"
+      ],
+      "text": "Task switching can require reactivating a rule, remembering where you stopped and inhibiting an earlier response. A switch cost is a measured performance difference in a defined comparison, not a universal number of lost minutes.\n\nJo’s interruption may create a return problem rather than a lack of motivation. A marker saying “label checked; confirm contact detail next” offers a concrete return. Necessary interruptions still matter. Compare accuracy, time and access before deciding which optional demands to change.",
+      "stage": "Explanation",
+      "visual": "c02s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a performance problem, distinguish selection, working-memory demands, switching costs and current state, then choose a relevant support and outcome."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Task-switching studies compare defined tasks and conditions; they do not establish one fixed recovery time for every interruption. Sleep-restriction findings show that subjective experience and measured vigilance can diverge in studied conditions. Do not reduce sleep to recreate the experiment.\n\nFor ordinary improvement, choose a feasible support such as a clear checkpoint or fewer optional alerts, then judge the intended outcome and its costs. Neural control accounts explain possible constraints, while behavioural comparisons are still needed to establish whether the support helps in this setting."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from these sources. Reducing optional switching can help a specified task without requiring constant uninterrupted work."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Miller, Cohen (2001): An Integrative Theory of Prefrontal Cortex Function",
+            "url": "https://doi.org/10.1146/annurev.neuro.24.1.167",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Rubinstein, Meyer, Evans (2001): Executive control of cognitive processes in task switching.",
+            "url": "https://doi.org/10.1037/0096-1523.27.4.763",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Van Dongen, Maislin, Mullington (2003): The Cumulative Cost of Additional Wakefulness: Dose-Response Effects on Neurobehavioral Functions and Sleep Physiology From Chronic Sleep Restriction and Total Sleep Deprivation",
+            "url": "https://doi.org/10.1093/sleep/26.2.117",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Sleep and why we sleep",
+            "url": "https://openstax.org/books/psychology-2e/pages/4-2-sleep-and-why-we-sleep",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c02s04",
+      "kind": "concept",
+      "title": "Feeling adapted is not a performance measure.",
+      "points": [
+        "State: a current condition that can change over time",
+        "Subjective report: a person’s account of their experience",
+        "Vigilance: sustained readiness to detect relevant events"
+      ],
+      "text": "A state such as fatigue can vary across occasions. A subjective report tells us how the person feels; vigilance tasks measure a specified kind of sustained performance. These measures are related questions, not interchangeable ones.\n\nIn a sleep-restriction experiment, performance deficits accumulated while subjective sleepiness did not track them fully. That does not diagnose Jo from a single lapse. It suggests checking workload and recovery opportunities alongside interruptions, rather than treating confidence or one bad shift as a complete measure of capacity.",
+      "stage": "Explanation",
+      "visual": "c02s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a performance problem, distinguish selection, working-memory demands, switching costs and current state, then choose a relevant support and outcome."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Task-switching studies compare defined tasks and conditions; they do not establish one fixed recovery time for every interruption. Sleep-restriction findings show that subjective experience and measured vigilance can diverge in studied conditions. Do not reduce sleep to recreate the experiment.\n\nFor ordinary improvement, choose a feasible support such as a clear checkpoint or fewer optional alerts, then judge the intended outcome and its costs. Neural control accounts explain possible constraints, while behavioural comparisons are still needed to establish whether the support helps in this setting."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from these sources. A state hypothesis is a reason to investigate conditions, not an individual diagnosis."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Miller, Cohen (2001): An Integrative Theory of Prefrontal Cortex Function",
+            "url": "https://doi.org/10.1146/annurev.neuro.24.1.167",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Rubinstein, Meyer, Evans (2001): Executive control of cognitive processes in task switching.",
+            "url": "https://doi.org/10.1037/0096-1523.27.4.763",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Van Dongen, Maislin, Mullington (2003): The Cumulative Cost of Additional Wakefulness: Dose-Response Effects on Neurobehavioral Functions and Sleep Physiology From Chronic Sleep Restriction and Total Sleep Deprivation",
+            "url": "https://doi.org/10.1093/sleep/26.2.117",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Sleep and why we sleep",
+            "url": "https://openstax.org/books/psychology-2e/pages/4-2-sleep-and-why-we-sleep",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c02s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Task-switching studies compare defined tasks and conditions; they do not establish one fixed recovery time for every interruption. Sleep-restriction findings show that subjective experience and measured vigilance can diverge in studied conditions. Do not reduce sleep to recreate the experiment.\n\nFor ordinary improvement, choose a feasible support such as a clear checkpoint or fewer optional alerts, then judge the intended outcome and its costs. Neural control accounts explain possible constraints, while behavioural comparisons are still needed to establish whether the support helps in this setting.",
+      "stage": "Evidence check",
+      "visual": "c02s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a performance problem, distinguish selection, working-memory demands, switching costs and current state, then choose a relevant support and outcome."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Task-switching studies compare defined tasks and conditions; they do not establish one fixed recovery time for every interruption. Sleep-restriction findings show that subjective experience and measured vigilance can diverge in studied conditions. Do not reduce sleep to recreate the experiment.\n\nFor ordinary improvement, choose a feasible support such as a clear checkpoint or fewer optional alerts, then judge the intended outcome and its costs. Neural control accounts explain possible constraints, while behavioural comparisons are still needed to establish whether the support helps in this setting."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from these sources. A quieter-looking task is not automatically a more successful one."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Miller, Cohen (2001): An Integrative Theory of Prefrontal Cortex Function",
+            "url": "https://doi.org/10.1146/annurev.neuro.24.1.167",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Rubinstein, Meyer, Evans (2001): Executive control of cognitive processes in task switching.",
+            "url": "https://doi.org/10.1037/0096-1523.27.4.763",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Van Dongen, Maislin, Mullington (2003): The Cumulative Cost of Additional Wakefulness: Dose-Response Effects on Neurobehavioral Functions and Sleep Physiology From Chronic Sleep Restriction and Total Sleep Deprivation",
+            "url": "https://doi.org/10.1093/sleep/26.2.117",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Sleep and why we sleep",
+            "url": "https://openstax.org/books/psychology-2e/pages/4-2-sleep-and-why-we-sleep",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    }
+  ],
+  "3": [
+    {
+      "id": "c03s03",
+      "kind": "concept",
+      "title": "Remembering is not one undivided ability.",
+      "points": [
+        "Declarative memory: memory for facts and events that can be consciously reported",
+        "Skill learning: improvement in performing a task through experience"
+      ],
+      "text": "Declarative memory supports reporting a fact or event. Skill learning concerns improvement in performing an activity through experience. The hippocampus and nearby structures are important for forming new declarative memories. Skill learning recruits other interacting systems, including circuits involving the striatum and cerebellum. These are useful distinctions, not perfectly isolated boxes.\n\nSam’s smooth routine does not establish that Sam can explain a new fault, and a correct explanation does not establish fluent tool use. State the capability you want: recall a principle, recognise a case or perform a sequence. Then choose a practice and a check that match it.",
+      "stage": "Explanation",
+      "visual": "c03s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a learning or brain-training claim, distinguish memory systems, task-specific plasticity and transfer, and design practice with a relevant check."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Memory-systems research draws on several kinds of evidence, including neurological cases, animal work and human experiments. No single system label describes everything a person can remember. Plasticity findings likewise need interpretation of the measure and task.\n\nEvidence supports practice testing and distributed practice in many learning settings; it does not establish one timetable for every learner or topic. Brain-training reviews distinguish gains on trained tasks from broader transfer. For Sam, the meaningful check is a relevant explanation or repair outcome, not a brain score presented without that link."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from these sources. Success in one memory demand does not establish success in every other demand."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Squire (2004): Memory systems of the brain: A brief history and current perspective",
+            "url": "https://doi.org/10.1016/j.nlm.2004.06.005",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Draganski, Gaser, Busch (2004): Changes in grey matter induced by training",
+            "url": "https://doi.org/10.1038/427311a",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Dunlosky, Rawson, Marsh (2013): Improving Students’ Learning With Effective Learning Techniques",
+            "url": "https://doi.org/10.1177/1529100612453266",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Simons, Boot, Charness (2016): Do “Brain-Training” Programs Work?",
+            "url": "https://doi.org/10.1177/1529100616661983",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Parts of the brain involved with memory",
+            "url": "https://openstax.org/books/psychology-2e/pages/8-2-parts-of-the-brain-involved-with-memory",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c03s03b",
+      "kind": "concept",
+      "title": "Plasticity is a capacity, not a guarantee.",
+      "points": [
+        "Neuroplasticity: change in nervous-system structure or function associated with experience or other conditions",
+        "Transfer: an effect of learning on an outcome beyond the trained task"
+      ],
+      "text": "Neuroplasticity describes changes in nervous-system structure or function. It does not specify whether a change is useful, how large it is or whether it transfers to another outcome. Transfer needs evidence beyond success on the trained task.\n\nTraining studies can relate practice to measured brain changes, while reviews of brain-training programmes question broad everyday claims. A colourful before-and-after image does not establish better judgement at the repair desk. Check the actual trained outcome and the untrained outcome separately, using an appropriate comparison.",
+      "stage": "Explanation",
+      "visual": "c03s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a learning or brain-training claim, distinguish memory systems, task-specific plasticity and transfer, and design practice with a relevant check."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Memory-systems research draws on several kinds of evidence, including neurological cases, animal work and human experiments. No single system label describes everything a person can remember. Plasticity findings likewise need interpretation of the measure and task.\n\nEvidence supports practice testing and distributed practice in many learning settings; it does not establish one timetable for every learner or topic. Brain-training reviews distinguish gains on trained tasks from broader transfer. For Sam, the meaningful check is a relevant explanation or repair outcome, not a brain score presented without that link."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from these sources. Evidence for one claim does not automatically establish the others."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Squire (2004): Memory systems of the brain: A brief history and current perspective",
+            "url": "https://doi.org/10.1016/j.nlm.2004.06.005",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Draganski, Gaser, Busch (2004): Changes in grey matter induced by training",
+            "url": "https://doi.org/10.1038/427311a",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Dunlosky, Rawson, Marsh (2013): Improving Students’ Learning With Effective Learning Techniques",
+            "url": "https://doi.org/10.1177/1529100612453266",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Simons, Boot, Charness (2016): Do “Brain-Training” Programs Work?",
+            "url": "https://doi.org/10.1177/1529100616661983",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Parts of the brain involved with memory",
+            "url": "https://openstax.org/books/psychology-2e/pages/8-2-parts-of-the-brain-involved-with-memory",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c03s04",
+      "kind": "concept",
+      "title": "Make the practice reveal the learning.",
+      "points": [
+        "Retrieval practice: attempting to produce learned information before checking it",
+        "Distributed practice: spreading practice across separated occasions"
+      ],
+      "text": "Retrieval practice asks Sam to produce an explanation before looking. Distributed practice separates attempts over time. Reviews of learning techniques support these practices across many studied conditions, but useful questions and intervals depend on the learning goal.\n\nSam could explain one fault, compare it with a trustworthy source and return later with an unfamiliar example. Feedback supplies corrections instead of rehearsing an unchecked answer. Neuroscience helps explain why learning has mechanisms and limits; the practical recommendation still needs evidence about what Sam can actually remember or do.",
+      "stage": "Explanation",
+      "visual": "c03s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a learning or brain-training claim, distinguish memory systems, task-specific plasticity and transfer, and design practice with a relevant check."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Memory-systems research draws on several kinds of evidence, including neurological cases, animal work and human experiments. No single system label describes everything a person can remember. Plasticity findings likewise need interpretation of the measure and task.\n\nEvidence supports practice testing and distributed practice in many learning settings; it does not establish one timetable for every learner or topic. Brain-training reviews distinguish gains on trained tasks from broader transfer. For Sam, the meaningful check is a relevant explanation or repair outcome, not a brain score presented without that link."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from these sources. A feasible learning cycle should target the capability you want to use."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Squire (2004): Memory systems of the brain: A brief history and current perspective",
+            "url": "https://doi.org/10.1016/j.nlm.2004.06.005",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Draganski, Gaser, Busch (2004): Changes in grey matter induced by training",
+            "url": "https://doi.org/10.1038/427311a",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Dunlosky, Rawson, Marsh (2013): Improving Students’ Learning With Effective Learning Techniques",
+            "url": "https://doi.org/10.1177/1529100612453266",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Simons, Boot, Charness (2016): Do “Brain-Training” Programs Work?",
+            "url": "https://doi.org/10.1177/1529100616661983",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Parts of the brain involved with memory",
+            "url": "https://openstax.org/books/psychology-2e/pages/8-2-parts-of-the-brain-involved-with-memory",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c03s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Memory-systems research draws on several kinds of evidence, including neurological cases, animal work and human experiments. No single system label describes everything a person can remember. Plasticity findings likewise need interpretation of the measure and task.\n\nEvidence supports practice testing and distributed practice in many learning settings; it does not establish one timetable for every learner or topic. Brain-training reviews distinguish gains on trained tasks from broader transfer. For Sam, the meaningful check is a relevant explanation or repair outcome, not a brain score presented without that link.",
+      "stage": "Evidence check",
+      "visual": "c03s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a learning or brain-training claim, distinguish memory systems, task-specific plasticity and transfer, and design practice with a relevant check."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Memory-systems research draws on several kinds of evidence, including neurological cases, animal work and human experiments. No single system label describes everything a person can remember. Plasticity findings likewise need interpretation of the measure and task.\n\nEvidence supports practice testing and distributed practice in many learning settings; it does not establish one timetable for every learner or topic. Brain-training reviews distinguish gains on trained tasks from broader transfer. For Sam, the meaningful check is a relevant explanation or repair outcome, not a brain score presented without that link."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from these sources. Different claims call for different checks; confidence alone is not all three."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Squire (2004): Memory systems of the brain: A brief history and current perspective",
+            "url": "https://doi.org/10.1016/j.nlm.2004.06.005",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Draganski, Gaser, Busch (2004): Changes in grey matter induced by training",
+            "url": "https://doi.org/10.1038/427311a",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Dunlosky, Rawson, Marsh (2013): Improving Students’ Learning With Effective Learning Techniques",
+            "url": "https://doi.org/10.1177/1529100612453266",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Simons, Boot, Charness (2016): Do “Brain-Training” Programs Work?",
+            "url": "https://doi.org/10.1177/1529100616661983",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Parts of the brain involved with memory",
+            "url": "https://openstax.org/books/psychology-2e/pages/8-2-parts-of-the-brain-involved-with-memory",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    }
+  ],
+  "4": [
+    {
+      "id": "c04s03",
+      "kind": "concept",
+      "title": "A reward signal is not a motivation gauge.",
+      "points": [
+        "Dopamine: a neurotransmitter involved in several nervous-system functions",
+        "Reward prediction error: a difference between an expected and received reward in a learning account"
+      ],
+      "text": "Dopamine contributes to several functions. In reward-learning research, activity in studied dopamine pathways can track a reward prediction error: an outcome differs from what was expected. After learning, a cue can predict a reward, so the studied response is not simply a measure of how pleasant the reward feels. It is not a single pleasure or willpower level.\n\nLeo’s phone checking does not tell us his dopamine level. The immediate expectation of news is one possible part of the learned pattern, but workload, the guide’s difficulty and access to tools may also matter. A mechanism should improve the questions we ask, not become a diagnosis from an ordinary action.",
+      "stage": "Explanation",
+      "visual": "c04s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a motivation or craving claim, distinguish reward prediction, cue-driven habits and practical opportunity, then choose a feasible change without inferring a neurotransmitter level."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Reward-prediction findings concern specified tasks, pathways and comparisons. They do not let us infer a personal dopamine level from scrolling, a craving or a missed intention. Habits research likewise treats learned responses within a context, rather than equating every repeated action with an addiction.\n\nSpecific planning can support action in studied settings, but the proposed café arrangement is an application to evaluate. Keep the person’s goal and practical opportunity visible. A change in one routine does not establish a biological reset or identify a universally best method."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from these sources. A scientific term cannot replace the missing observation and comparison."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Schultz, Dayan, Montague (1997): A Neural Substrate of Prediction and Reward",
+            "url": "https://doi.org/10.1126/science.275.5306.1593",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Schultz (2016): Dopamine reward prediction error coding",
+            "url": "https://doi.org/10.31887/DCNS.2016.18.1/wschultz",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Wood, Rünger (2016): Psychology of Habit",
+            "url": "https://doi.org/10.1146/annurev-psych-122414-033417",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Sheeran, Listrom, Gollwitzer (2024): The when and how of planning: Meta-analysis of the scope and components of implementation intentions in 642 tests",
+            "url": "https://doi.org/10.1080/10463283.2024.2334563",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Motivation",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c04s03b",
+      "kind": "concept",
+      "title": "A cue can make a response more likely.",
+      "points": [
+        "Habit: a learned tendency for a response to be prompted by a familiar context",
+        "Outcome value: how worthwhile a consequence is in the current situation"
+      ],
+      "text": "A habit is a learned response tendency in a familiar context. Outcome value can also change with the situation: an update may be interesting now and unimportant later. Habitual and goal-directed influences can coexist.\n\nAn alert, a familiar pause and an easy check may help explain Leo’s pattern. If the aim is a useful guide-writing session, one option is to change an optional alert or leave the next paragraph ready. Ask what checking provides before choosing an alternative. Removing a cue cannot supply the locked test device.",
+      "stage": "Explanation",
+      "visual": "c04s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a motivation or craving claim, distinguish reward prediction, cue-driven habits and practical opportunity, then choose a feasible change without inferring a neurotransmitter level."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Reward-prediction findings concern specified tasks, pathways and comparisons. They do not let us infer a personal dopamine level from scrolling, a craving or a missed intention. Habits research likewise treats learned responses within a context, rather than equating every repeated action with an addiction.\n\nSpecific planning can support action in studied settings, but the proposed café arrangement is an application to evaluate. Keep the person’s goal and practical opportunity visible. A change in one routine does not establish a biological reset or identify a universally best method."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from these sources. A useful habit explanation includes the setting and competing goals."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Schultz, Dayan, Montague (1997): A Neural Substrate of Prediction and Reward",
+            "url": "https://doi.org/10.1126/science.275.5306.1593",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Schultz (2016): Dopamine reward prediction error coding",
+            "url": "https://doi.org/10.31887/DCNS.2016.18.1/wschultz",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Wood, Rünger (2016): Psychology of Habit",
+            "url": "https://doi.org/10.1146/annurev-psych-122414-033417",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Sheeran, Listrom, Gollwitzer (2024): The when and how of planning: Meta-analysis of the scope and components of implementation intentions in 642 tests",
+            "url": "https://doi.org/10.1080/10463283.2024.2334563",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Motivation",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c04s04",
+      "kind": "concept",
+      "title": "Choose the change by its effect and its costs.",
+      "points": [
+        "Implementation intention: a plan linking a specified situation to a response",
+        "Feasibility: whether an action is workable under the actual conditions"
+      ],
+      "text": "An implementation intention links a situation to a response. Feasibility asks whether the action can happen under the actual conditions. Leo might plan to open the prepared paragraph after the desk closes, once the test device is available.\n\nA small visible result may make the session easier to judge. Keep the goal personally meaningful and notice the burden as well as whether the action occurred. Neuroscience does not, by itself, select gradual reduction, swapping or stopping a particular cue. Those choices need attention to preferences, conditions and observed effects.",
+      "stage": "Explanation",
+      "visual": "c04s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a motivation or craving claim, distinguish reward prediction, cue-driven habits and practical opportunity, then choose a feasible change without inferring a neurotransmitter level."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Reward-prediction findings concern specified tasks, pathways and comparisons. They do not let us infer a personal dopamine level from scrolling, a craving or a missed intention. Habits research likewise treats learned responses within a context, rather than equating every repeated action with an addiction.\n\nSpecific planning can support action in studied settings, but the proposed café arrangement is an application to evaluate. Keep the person’s goal and practical opportunity visible. A change in one routine does not establish a biological reset or identify a universally best method."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from these sources. A specific plan helps only if its situation and action are workable."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Schultz, Dayan, Montague (1997): A Neural Substrate of Prediction and Reward",
+            "url": "https://doi.org/10.1126/science.275.5306.1593",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Schultz (2016): Dopamine reward prediction error coding",
+            "url": "https://doi.org/10.31887/DCNS.2016.18.1/wschultz",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Wood, Rünger (2016): Psychology of Habit",
+            "url": "https://doi.org/10.1146/annurev-psych-122414-033417",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Sheeran, Listrom, Gollwitzer (2024): The when and how of planning: Meta-analysis of the scope and components of implementation intentions in 642 tests",
+            "url": "https://doi.org/10.1080/10463283.2024.2334563",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Motivation",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c04s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Reward-prediction findings concern specified tasks, pathways and comparisons. They do not let us infer a personal dopamine level from scrolling, a craving or a missed intention. Habits research likewise treats learned responses within a context, rather than equating every repeated action with an addiction.\n\nSpecific planning can support action in studied settings, but the proposed café arrangement is an application to evaluate. Keep the person’s goal and practical opportunity visible. A change in one routine does not establish a biological reset or identify a universally best method.",
+      "stage": "Evidence check",
+      "visual": "c04s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a motivation or craving claim, distinguish reward prediction, cue-driven habits and practical opportunity, then choose a feasible change without inferring a neurotransmitter level."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Reward-prediction findings concern specified tasks, pathways and comparisons. They do not let us infer a personal dopamine level from scrolling, a craving or a missed intention. Habits research likewise treats learned responses within a context, rather than equating every repeated action with an addiction.\n\nSpecific planning can support action in studied settings, but the proposed café arrangement is an application to evaluate. Keep the person’s goal and practical opportunity visible. A change in one routine does not establish a biological reset or identify a universally best method."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from these sources. A personal trial can inform a choice without diagnosing a chemical state."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Schultz, Dayan, Montague (1997): A Neural Substrate of Prediction and Reward",
+            "url": "https://doi.org/10.1126/science.275.5306.1593",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Schultz (2016): Dopamine reward prediction error coding",
+            "url": "https://doi.org/10.31887/DCNS.2016.18.1/wschultz",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Wood, Rünger (2016): Psychology of Habit",
+            "url": "https://doi.org/10.1146/annurev-psych-122414-033417",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Sheeran, Listrom, Gollwitzer (2024): The when and how of planning: Meta-analysis of the scope and components of implementation intentions in 642 tests",
+            "url": "https://doi.org/10.1080/10463283.2024.2334563",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Motivation",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    }
+  ],
+  "5": [
+    {
+      "id": "c05s03",
+      "kind": "concept",
+      "title": "A bodily signal is one part of an account.",
+      "points": [
+        "Arousal: a dimension of physiological activation",
+        "Appraisal: an interpretation of what a situation means",
+        "Emotion regulation: processes that influence an emotional response and its course"
+      ],
+      "text": "Arousal describes physiological activation; it does not identify a unique emotion or its cause. Appraisal concerns what a situation means to the person. Emotion regulation can involve changing the situation, attention, interpretation or response.\n\nJo’s pulse does not tell us whether the experience is fear, frustration, exertion or something else. Ask about the situation and Jo’s account. Interacting brain and body processes support emotional responses, but naming one region would not settle what happened or make a preferred exercise the right response.",
+      "stage": "Explanation",
+      "visual": "c05s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given an emotional or performance change, separate a bodily observation from an interpretation and compare practical, cognitive and recovery-related responses."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Emotion and stress involve interacting systems and contexts. Neural and physiological measures can inform an account, but one pulse value or brain-region label cannot establish a unique feeling, cause or suitable response. Some stress mechanisms are studied in animals or specialised human tasks; transfer to an everyday recommendation needs its own reasoning.\n\nSleep contributes to several functions, including memory, but a wearable’s estimate is not equivalent to a laboratory sleep-stage measurement. Keep practical constraints visible and do not deprive yourself of sleep to test this material. These lessons support interpretation, not diagnosis or treatment."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from these sources. No single physiological observation identifies another person’s emotion."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Gross (2015): Emotion Regulation: Current Status and Future Prospects",
+            "url": "https://doi.org/10.1080/1047840X.2014.940781",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Arnsten (2009): Stress signalling pathways that impair prefrontal cortex structure and function",
+            "url": "https://doi.org/10.1038/nrn2648",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Rasch, Born (2013): About Sleep's Role in Memory",
+            "url": "https://doi.org/10.1152/physrev.00032.2012",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: What is stress",
+            "url": "https://openstax.org/books/psychology-2e/pages/14-1-what-is-stress",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c05s03b",
+      "kind": "concept",
+      "title": "Change the demand when the demand is the problem.",
+      "points": [
+        "Stress response: a coordinated response to demands or perceived challenge",
+        "Reappraisal: changing an interpretation of a situation"
+      ],
+      "text": "A stress response involves coordinated brain and body processes, including autonomic activity and hormonal signalling. These can mobilise resources while also changing how attention and control operate. Its effects depend on the demand, duration, control and wider circumstances. Reappraisal changes an interpretation; it cannot supply missing staffing or resolve conflicting instructions by itself.\n\nA manageable misunderstanding might be clarified by asking a question. A persistent queue problem may need clearer roles, capacity or access to breaks. Choose the response that fits the actual difficulty. Mechanistic stress research offers possible explanations and constraints, not a direct diagnosis of Jo or proof that one regulation strategy suits every situation.",
+      "stage": "Explanation",
+      "visual": "c05s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given an emotional or performance change, separate a bodily observation from an interpretation and compare practical, cognitive and recovery-related responses."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Emotion and stress involve interacting systems and contexts. Neural and physiological measures can inform an account, but one pulse value or brain-region label cannot establish a unique feeling, cause or suitable response. Some stress mechanisms are studied in animals or specialised human tasks; transfer to an everyday recommendation needs its own reasoning.\n\nSleep contributes to several functions, including memory, but a wearable’s estimate is not equivalent to a laboratory sleep-stage measurement. Keep practical constraints visible and do not deprive yourself of sleep to test this material. These lessons support interpretation, not diagnosis or treatment."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from these sources. A personal skill and an environmental change can complement one another."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Gross (2015): Emotion Regulation: Current Status and Future Prospects",
+            "url": "https://doi.org/10.1080/1047840X.2014.940781",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Arnsten (2009): Stress signalling pathways that impair prefrontal cortex structure and function",
+            "url": "https://doi.org/10.1038/nrn2648",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Rasch, Born (2013): About Sleep's Role in Memory",
+            "url": "https://doi.org/10.1152/physrev.00032.2012",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: What is stress",
+            "url": "https://openstax.org/books/psychology-2e/pages/14-1-what-is-stress",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c05s04",
+      "kind": "concept",
+      "title": "Recovery is a condition, not a reward for output.",
+      "points": [
+        "Circadian timing: daily biological timing that influences sleep and wakefulness",
+        "Sleep pressure: the tendency to sleep that builds during wakefulness",
+        "Memory consolidation: processes that stabilise or reorganise memories over time"
+      ],
+      "text": "Circadian timing and sleep pressure contribute to when sleep is possible and needed. Memory consolidation concerns changes that stabilise or reorganise memories over time; sleep can contribute to learning and memory under studied conditions. These processes are not a promise that sleeping will solve every task.\n\nFor the café, the useful questions include workload, recovery opportunity and whether the next shift is feasible. Rest and enjoyable activity can matter in their own right. A personal routine cannot remove every institutional demand, and one wearable reading does not establish recovery or a sleep-stage diagnosis.",
+      "stage": "Explanation",
+      "visual": "c05s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given an emotional or performance change, separate a bodily observation from an interpretation and compare practical, cognitive and recovery-related responses."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Emotion and stress involve interacting systems and contexts. Neural and physiological measures can inform an account, but one pulse value or brain-region label cannot establish a unique feeling, cause or suitable response. Some stress mechanisms are studied in animals or specialised human tasks; transfer to an everyday recommendation needs its own reasoning.\n\nSleep contributes to several functions, including memory, but a wearable’s estimate is not equivalent to a laboratory sleep-stage measurement. Keep practical constraints visible and do not deprive yourself of sleep to test this material. These lessons support interpretation, not diagnosis or treatment."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from these sources. Recovery should not depend on meeting a productivity score first."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Gross (2015): Emotion Regulation: Current Status and Future Prospects",
+            "url": "https://doi.org/10.1080/1047840X.2014.940781",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Arnsten (2009): Stress signalling pathways that impair prefrontal cortex structure and function",
+            "url": "https://doi.org/10.1038/nrn2648",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Rasch, Born (2013): About Sleep's Role in Memory",
+            "url": "https://doi.org/10.1152/physrev.00032.2012",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: What is stress",
+            "url": "https://openstax.org/books/psychology-2e/pages/14-1-what-is-stress",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c05s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Emotion and stress involve interacting systems and contexts. Neural and physiological measures can inform an account, but one pulse value or brain-region label cannot establish a unique feeling, cause or suitable response. Some stress mechanisms are studied in animals or specialised human tasks; transfer to an everyday recommendation needs its own reasoning.\n\nSleep contributes to several functions, including memory, but a wearable’s estimate is not equivalent to a laboratory sleep-stage measurement. Keep practical constraints visible and do not deprive yourself of sleep to test this material. These lessons support interpretation, not diagnosis or treatment.",
+      "stage": "Evidence check",
+      "visual": "c05s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given an emotional or performance change, separate a bodily observation from an interpretation and compare practical, cognitive and recovery-related responses."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Emotion and stress involve interacting systems and contexts. Neural and physiological measures can inform an account, but one pulse value or brain-region label cannot establish a unique feeling, cause or suitable response. Some stress mechanisms are studied in animals or specialised human tasks; transfer to an everyday recommendation needs its own reasoning.\n\nSleep contributes to several functions, including memory, but a wearable’s estimate is not equivalent to a laboratory sleep-stage measurement. Keep practical constraints visible and do not deprive yourself of sleep to test this material. These lessons support interpretation, not diagnosis or treatment."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from these sources. A calmer feeling is one outcome; it is not the whole explanation or every practical goal."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Gross (2015): Emotion Regulation: Current Status and Future Prospects",
+            "url": "https://doi.org/10.1080/1047840X.2014.940781",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Arnsten (2009): Stress signalling pathways that impair prefrontal cortex structure and function",
+            "url": "https://doi.org/10.1038/nrn2648",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Rasch, Born (2013): About Sleep's Role in Memory",
+            "url": "https://doi.org/10.1152/physrev.00032.2012",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OpenStax Psychology 2e: What is stress",
+            "url": "https://openstax.org/books/psychology-2e/pages/14-1-what-is-stress",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    }
+  ],
+  "6": [
+    {
+      "id": "c06s03",
+      "kind": "concept",
+      "title": "A break has a before and an after.",
+      "points": [
+        "Incubation: improvement after a period away from a previously encountered problem",
+        "Mind wandering: thought that shifts away from the current external task"
+      ],
+      "text": "Incubation describes a pattern in problem-solving research: people return after a period away from a problem. Mind wandering is one possible feature of that interval, not a guarantee that useful work is occurring unconsciously. Effects depend on the problem and the intervening activity.\n\nLeo first needs to understand the label problem. A feasible undemanding break can then be one option to try before returning. Missing information may instead call for investigation. The popular Jack Reacher label is the writer’s analogy, not an established neuroscience protocol or a reason to expect automatic solutions.",
+      "stage": "Explanation",
+      "visual": "c06s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a creativity claim, distinguish incubation, divergent generation and convergent checking, and design a bounded practical trial without treating neural activity as proof of benefit."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Incubation and walking studies offer evidence about defined problems, intervals and outcomes. Undemanding activity has helped in some creative-task comparisons, particularly after initial exposure, but mind wandering is not a guaranteed cause of insight. Results do not mean that every break, every walk or doing nothing improves every problem.\n\nResting-state and network studies inform possible accounts of internally directed thought and control. They do not prove that a named popular method works. For an everyday trial, prepare, pause, return and check. For a strong causal claim, a suitable design and repeated, relevant evidence are needed beyond a few personal observations."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from these sources. A break is one part of a learning and checking cycle."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Sio, Ormerod (2009): Does incubation enhance problem solving? A meta-analytic review.",
+            "url": "https://doi.org/10.1037/a0014212",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Baird, Smallwood, Mrazek (2012): Inspired by Distraction",
+            "url": "https://doi.org/10.1177/0956797612446024",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Oppezzo, Schwartz (2014): Give your ideas some legs: The positive effect of walking on creative thinking.",
+            "url": "https://doi.org/10.1037/a0036577",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Beaty, Benedek, Barry Kaufman (2015): Default and Executive Network Coupling Supports Creative Idea Production",
+            "url": "https://doi.org/10.1038/srep10964",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Raichle, MacLeod, Snyder (2001): A default mode of brain function",
+            "url": "https://doi.org/10.1073/pnas.98.2.676",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Haden: the popular Jack Reacher analogy, not the primary evidence",
+            "url": "https://www.fastcompany.com/91635178/need-to-solve-a-problem-neuroscience-jack-reacher-method",
+            "kind": "Popular article used as a claim to examine; practical and neural claims require the primary studies."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c06s03b",
+      "kind": "concept",
+      "title": "More ideas and a correct answer are different outcomes.",
+      "points": [
+        "Divergent thinking: generating varied possible ideas or responses",
+        "Convergent thinking: working towards a suitable or correct answer under constraints"
+      ],
+      "text": "Divergent thinking concerns generating possibilities; convergent thinking concerns selecting or checking a suitable answer. A result on one kind of task does not automatically generalise to the other.\n\nWalking experiments found benefits for idea generation under their study conditions, with a different pattern on a task requiring a single related answer. This does not establish a fixed percentage improvement for all problems. Leo can collect several label designs after a break, then check readability, missing details and accessibility. A fluent idea still needs evaluation.",
+      "stage": "Explanation",
+      "visual": "c06s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a creativity claim, distinguish incubation, divergent generation and convergent checking, and design a bounded practical trial without treating neural activity as proof of benefit."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Incubation and walking studies offer evidence about defined problems, intervals and outcomes. Undemanding activity has helped in some creative-task comparisons, particularly after initial exposure, but mind wandering is not a guaranteed cause of insight. Results do not mean that every break, every walk or doing nothing improves every problem.\n\nResting-state and network studies inform possible accounts of internally directed thought and control. They do not prove that a named popular method works. For an everyday trial, prepare, pause, return and check. For a strong causal claim, a suitable design and repeated, relevant evidence are needed beyond a few personal observations."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from these sources. A larger idea count is not automatically a better final solution."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Sio, Ormerod (2009): Does incubation enhance problem solving? A meta-analytic review.",
+            "url": "https://doi.org/10.1037/a0014212",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Baird, Smallwood, Mrazek (2012): Inspired by Distraction",
+            "url": "https://doi.org/10.1177/0956797612446024",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Oppezzo, Schwartz (2014): Give your ideas some legs: The positive effect of walking on creative thinking.",
+            "url": "https://doi.org/10.1037/a0036577",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Beaty, Benedek, Barry Kaufman (2015): Default and Executive Network Coupling Supports Creative Idea Production",
+            "url": "https://doi.org/10.1038/srep10964",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Raichle, MacLeod, Snyder (2001): A default mode of brain function",
+            "url": "https://doi.org/10.1073/pnas.98.2.676",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Haden: the popular Jack Reacher analogy, not the primary evidence",
+            "url": "https://www.fastcompany.com/91635178/need-to-solve-a-problem-neuroscience-jack-reacher-method",
+            "kind": "Popular article used as a claim to examine; practical and neural claims require the primary studies."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c06s04",
+      "kind": "concept",
+      "title": "A brain account still needs a behavioural test.",
+      "points": [
+        "Default mode network: a set of interacting regions associated with several internally oriented processes",
+        "Executive control: processes that help maintain goals and guide task-relevant responses"
+      ],
+      "text": "The default mode network is associated with several internally oriented processes. Executive control supports goal-directed responding. Creativity research examines interactions between networks; it does not describe a single creativity switch that turns on whenever attention turns off.\n\nResting activity is not proof that Leo’s particular problem is being solved. A useful trial would define the problem, the break or comparator, the return task and the outcome. Compare useful ideas and the quality of the checked result, while noticing time and burden. A personally helpful routine can remain a bounded finding.",
+      "stage": "Explanation",
+      "visual": "c06s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a creativity claim, distinguish incubation, divergent generation and convergent checking, and design a bounded practical trial without treating neural activity as proof of benefit."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Incubation and walking studies offer evidence about defined problems, intervals and outcomes. Undemanding activity has helped in some creative-task comparisons, particularly after initial exposure, but mind wandering is not a guaranteed cause of insight. Results do not mean that every break, every walk or doing nothing improves every problem.\n\nResting-state and network studies inform possible accounts of internally directed thought and control. They do not prove that a named popular method works. For an everyday trial, prepare, pause, return and check. For a strong causal claim, a suitable design and repeated, relevant evidence are needed beyond a few personal observations."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from these sources. A neural explanation can guide questions without establishing the intervention’s benefit."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Sio, Ormerod (2009): Does incubation enhance problem solving? A meta-analytic review.",
+            "url": "https://doi.org/10.1037/a0014212",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Baird, Smallwood, Mrazek (2012): Inspired by Distraction",
+            "url": "https://doi.org/10.1177/0956797612446024",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Oppezzo, Schwartz (2014): Give your ideas some legs: The positive effect of walking on creative thinking.",
+            "url": "https://doi.org/10.1037/a0036577",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Beaty, Benedek, Barry Kaufman (2015): Default and Executive Network Coupling Supports Creative Idea Production",
+            "url": "https://doi.org/10.1038/srep10964",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Raichle, MacLeod, Snyder (2001): A default mode of brain function",
+            "url": "https://doi.org/10.1073/pnas.98.2.676",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Haden: the popular Jack Reacher analogy, not the primary evidence",
+            "url": "https://www.fastcompany.com/91635178/need-to-solve-a-problem-neuroscience-jack-reacher-method",
+            "kind": "Popular article used as a claim to examine; practical and neural claims require the primary studies."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c06s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Incubation and walking studies offer evidence about defined problems, intervals and outcomes. Undemanding activity has helped in some creative-task comparisons, particularly after initial exposure, but mind wandering is not a guaranteed cause of insight. Results do not mean that every break, every walk or doing nothing improves every problem.\n\nResting-state and network studies inform possible accounts of internally directed thought and control. They do not prove that a named popular method works. For an everyday trial, prepare, pause, return and check. For a strong causal claim, a suitable design and repeated, relevant evidence are needed beyond a few personal observations.",
+      "stage": "Evidence check",
+      "visual": "c06s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a creativity claim, distinguish incubation, divergent generation and convergent checking, and design a bounded practical trial without treating neural activity as proof of benefit."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Incubation and walking studies offer evidence about defined problems, intervals and outcomes. Undemanding activity has helped in some creative-task comparisons, particularly after initial exposure, but mind wandering is not a guaranteed cause of insight. Results do not mean that every break, every walk or doing nothing improves every problem.\n\nResting-state and network studies inform possible accounts of internally directed thought and control. They do not prove that a named popular method works. For an everyday trial, prepare, pause, return and check. For a strong causal claim, a suitable design and repeated, relevant evidence are needed beyond a few personal observations."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from these sources. Understanding a mechanism and improving an everyday outcome remain connected but distinct tasks."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Sio, Ormerod (2009): Does incubation enhance problem solving? A meta-analytic review.",
+            "url": "https://doi.org/10.1037/a0014212",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Baird, Smallwood, Mrazek (2012): Inspired by Distraction",
+            "url": "https://doi.org/10.1177/0956797612446024",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Oppezzo, Schwartz (2014): Give your ideas some legs: The positive effect of walking on creative thinking.",
+            "url": "https://doi.org/10.1037/a0036577",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Beaty, Benedek, Barry Kaufman (2015): Default and Executive Network Coupling Supports Creative Idea Production",
+            "url": "https://doi.org/10.1038/srep10964",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Raichle, MacLeod, Snyder (2001): A default mode of brain function",
+            "url": "https://doi.org/10.1073/pnas.98.2.676",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Haden: the popular Jack Reacher analogy, not the primary evidence",
+            "url": "https://www.fastcompany.com/91635178/need-to-solve-a-problem-neuroscience-jack-reacher-method",
+            "kind": "Popular article used as a claim to examine; practical and neural claims require the primary studies."
+          }
+        ]
+      }
+    }
+  ]
+}
