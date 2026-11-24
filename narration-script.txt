@@ -31,12 +31,12 @@ A neural account does not make the changed form irrelevant. Start with the misse
 c01s03b Chapter 1: A brain measurement has an interpretation.
 A neural association links a measured signal with a condition or performance. It may help constrain an explanation without settling what caused the difference. Reverse inference goes in the other direction: from a brain observation to a claim about someone’s mental process.
 
-That inference needs evidence about how specific the signal is, the comparison and the wider task. A region can participate in several processes. Lesion or controlled stimulation comparisons can help test causal roles, but the affected networks and task still need consideration. Seeing a signal associated with attention would not, by itself, establish why Sam missed a detail or reveal a stable personal weakness.
+That inference needs evidence about how specific the signal is, the comparison and the wider task. A region can participate in several processes. Comparisons involving damage to the nervous system, or controlled stimulation, can help test causal roles, but the affected networks and task still need consideration. Seeing a signal associated with attention would not, by itself, establish why Sam missed a detail or reveal a stable personal weakness.
 
 c01s04 Chapter 1: Useful change needs an outcome that matters.
 A mechanism explains how something might happen. An intervention changes a condition, and an outcome states what would count as useful improvement. A plausible mechanism can guide a proposal; it cannot substitute for checking the outcome.
 
-The café could compare checking accuracy with two equally accessible instruction layouts. It would also ask about effort and missed information. A different brain signal after a workshop would not establish that visitors receive more accurate bookings. Choose the practical question before choosing a measurement.
+The café could compare checking accuracy with two equally accessible instruction layouts. It would also ask about effort and details that were missed. A different brain signal after a workshop would not establish that visitors receive more accurate bookings. Choose the practical question before choosing a measurement.
 
 c01s05 Chapter 1: What does the evidence allow?
 Neuroscience adds evidence about nervous-system processes and their constraints. Psychological studies and intervention comparisons answer related questions about thinking and action. Brain measurements can narrow explanations, but a correlation does not by itself identify a cause.

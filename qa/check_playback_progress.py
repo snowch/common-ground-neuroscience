@@ -61,7 +61,7 @@ async def main():
   await page.wait_for_function('audioPlayer.src.includes("answers")&&audioPlayer.currentTime>.1')
   await page.goto(BASE+'/chapters/chapter-06.html#chapter-6-slide-1')
   assert await page.locator('#playbackProgress').evaluate('(e)=>e.value')==0
-  assert await page.locator('#playbackProgress').evaluate('(e)=>e.max')==await page.evaluate('AUDIO_DURATIONS.c10s01')
+  assert await page.locator('#playbackProgress').evaluate('(e)=>e.max')==await page.evaluate('AUDIO_DURATIONS.c06s01')
   axe=Path('/tmp/common-ground-axe.min.js')
   if axe.exists():
    await page.add_script_tag(path=str(axe))

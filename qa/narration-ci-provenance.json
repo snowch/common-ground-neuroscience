@@ -1,0 +1,75 @@
+{
+  "commit": "9c44ff61b31f028fd690183831ff450cc15c10f2",
+  "run_id": null,
+  "inputs": {
+    "course.json": "e8e7b247d74cc23fe33d0fef9f55bd9bfb5bffab2a3470667a12fe3d087f8081",
+    "production/af-heart/scenes.json": "19b22e08c9b8932e875dfaa0c768a05c944e0018025b9fa94420c3400de566bd"
+  },
+  "voice": "af_heart",
+  "speed": 1.0,
+  "render_workers_per_job": 4,
+  "production_jobs": 4,
+  "source_parts": [
+    {
+      "commit": "9c44ff61b31f028fd690183831ff450cc15c10f2",
+      "run_id": "45338894065",
+      "part": 0,
+      "inputs": {
+        "course.json": "e8e7b247d74cc23fe33d0fef9f55bd9bfb5bffab2a3470667a12fe3d087f8081",
+        "production/af-heart/scenes.json": "19b22e08c9b8932e875dfaa0c768a05c944e0018025b9fa94420c3400de566bd"
+      },
+      "voice": "af_heart",
+      "speed": 1.0,
+      "render_workers_per_job": 4,
+      "location": "GitHub Actions"
+    },
+    {
+      "commit": null,
+      "run_id": null,
+      "part": 1,
+      "inputs": {
+        "course.json": "e8e7b247d74cc23fe33d0fef9f55bd9bfb5bffab2a3470667a12fe3d087f8081",
+        "production/af-heart/scenes.json": "19b22e08c9b8932e875dfaa0c768a05c944e0018025b9fa94420c3400de566bd"
+      },
+      "voice": "af_heart",
+      "speed": 1.0,
+      "render_workers_per_job": 4,
+      "location": "local CPU, same pinned synthesis and independent screening scripts"
+    },
+    {
+      "commit": "9c44ff61b31f028fd690183831ff450cc15c10f2",
+      "run_id": "45338894065",
+      "part": 2,
+      "inputs": {
+        "course.json": "e8e7b247d74cc23fe33d0fef9f55bd9bfb5bffab2a3470667a12fe3d087f8081",
+        "production/af-heart/scenes.json": "19b22e08c9b8932e875dfaa0c768a05c944e0018025b9fa94420c3400de566bd"
+      },
+      "voice": "af_heart",
+      "speed": 1.0,
+      "render_workers_per_job": 4,
+      "location": "GitHub Actions"
+    },
+    {
+      "commit": null,
+      "run_id": null,
+      "part": 3,
+      "inputs": {
+        "course.json": "e8e7b247d74cc23fe33d0fef9f55bd9bfb5bffab2a3470667a12fe3d087f8081",
+        "production/af-heart/scenes.json": "19b22e08c9b8932e875dfaa0c768a05c944e0018025b9fa94420c3400de566bd"
+      },
+      "voice": "af_heart",
+      "speed": 1.0,
+      "render_workers_per_job": 4,
+      "location": "local CPU, same pinned synthesis and independent screening scripts"
+    }
+  ],
+  "scope": "Two verified Actions parts and two local parts; identical pinned Kokoro ONNX af_heart 1.0 pipeline and source inputs. Automated transcription and phoneme screening, not human listening approval. Two narration passages subsequently clarified and re-recorded locally with the same pinned engine, voice and speed; current scripts and media hashes are bound by the final screening reports.",
+  "local_clarity_changes": [
+    "c01s03b",
+    "c01s04"
+  ],
+  "current_inputs": {
+    "course.json": "e792d4e0c699f375ecab5c5c5cebe6d6e25438a452735ad222300edac17160eb",
+    "production/af-heart/scenes.json": "314bd46977bfaa75337d27d1ae343bad63685f28863f9978e76d51f6de12b510"
+  }
+}

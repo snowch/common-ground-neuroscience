@@ -1,0 +1,71 @@
+{
+  "method": "Additional small.en transcription of possible word ambiguities found while reviewing all tiny.en differences. Automated screening, not listening approval.",
+  "clips": [
+    {
+      "id": "c01s08",
+      "expected": "Choose a public brain-related headline or a fictional claim. Write the actual observation, the proposed explanation and the practical recommendation separately. Name one missing comparison; do not label a real person from the headline.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+      "heard": "Choose a public brain-related headline or a fictional claim. Write the actual observation, the proposed explanation, and the practical recommendations separately. Name one missing comparison. Do not label a real person from the headline. Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes. You",
+      "raw_sha256": "e50c9353a45fe1a9709b1b11bb12f325195c2a9b66c43a5ded143995a395355e"
+    },
+    {
+      "id": "c03s03",
+      "expected": "Declarative memory supports reporting a fact or event. Skill learning concerns improvement in performing an activity through experience. The hippocampus and nearby structures are important for forming new declarative memories. Skill learning recruits other interacting systems, including circuits involving the striatum and cerebellum. These are useful distinctions, not perfectly isolated boxes.\n\nSam’s smooth routine does not establish that Sam can explain a new fault, and a correct explanation does not establish fluent tool use. State the capability you want: recall a principle, recognise a case or perform a sequence. Then choose a practice and a check that match it.",
+      "heard": "Declarative memory supports reporting a fact or event. Skill learning concerns improvement in performing an activity through experience. The hippocampus and nearby structures are important for forming new declarative memories. Skill learning recruits other interacting systems, including circuits involving the striatum and cerebellum. These are useful distinctions, not perfectly isolated boxes. SAM's smooth routine does not establish that SAM can explain a new fault and a correct explanation does not establish fluent tool use. State the capability you want, recall a principle, recognize a case, or perform a sequence. Then choose a practice and a check that match it.",
+      "raw_sha256": "bf56d137f9cbf50bf6680f7bf9e3451c4b22db34b61e5c92f40f089c8a947dd8"
+    },
+    {
+      "id": "c03s05",
+      "expected": "Memory-systems research draws on several kinds of evidence, including neurological cases, animal work and human experiments. No single system label describes everything a person can remember. Plasticity findings likewise need interpretation of the measure and task.\n\nEvidence supports practice testing and distributed practice in many learning settings; it does not establish one timetable for every learner or topic. Brain-training reviews distinguish gains on trained tasks from broader transfer. For Sam, the meaningful check is a relevant explanation or repair outcome, not a brain score presented without that link.",
+      "heard": "Memory systems research draws on several kinds of evidence, including neurological cases, animal work, and human experiments. No single system label describes everything a person can remember. Plasticity findings likewise need interpretation of the measure and task. Evidence supports practice testing and distributed practice in many learning settings. It does not establish one timetable for every learner or topic. Brain training reviews distinguish gains on trained tasks from broader transfer. For SAM, the meaningful check is a relevant explanation or repair outcome, not a brain score presented without that link.",
+      "raw_sha256": "6d93a6e9b548825823d24ccbf0df4bf3456aa46d59d8bfeb5107d23b1929b956"
+    },
+    {
+      "id": "c04s02",
+      "expected": "First, make a prediction about the café story.\n\nWhich question would most improve Leo’s explanation?\n\nA. Which dopamine label best describes Leo from his phone checking alone?\n\nB. What does checking provide, and what conditions block the guide-writing step?\n\nC. How can the same strict rule be imposed on every volunteer?\n\nChoose an option before checking the feedback.",
+      "heard": "First, make a prediction about the cafe story. Which question would most improve Leo's explanation? A, which dopamine label best describes Leo from his phone checking alone? B, what does checking provide? And what conditions block the guide writing step? C, how can the same strict rule be imposed on every volunteer? Choose an option before checking the feedback.",
+      "raw_sha256": "b28cc6ae159a5972d45a8b0a685bb279d8348ed76b1cc1072f7406dadace2589"
+    },
+    {
+      "id": "c04s07",
+      "expected": "Try these questions without your notes.\n\nWhat does a reward prediction error describe, and what can phone checking not establish?\n\nHow can cue, consequence and practical opportunity inform a change?\n\nReveal the suggested answers after trying.",
+      "heard": "Try these questions without your notes. What does a reward prediction error describe, and what can phone checking not establish? How can Q, consequence and practical opportunity, inform a change? Reveal the suggested answers after trying.",
+      "raw_sha256": "187fed274d515df9daedf8538ae041bff3789895e4399907cb17578bff6e5e63"
+    },
+    {
+      "id": "c05s03",
+      "expected": "Arousal describes physiological activation; it does not identify a unique emotion or its cause. Appraisal concerns what a situation means to the person. Emotion regulation can involve changing the situation, attention, interpretation or response.\n\nJo’s pulse does not tell us whether the experience is fear, frustration, exertion or something else. Ask about the situation and Jo’s account. Interacting brain and body processes support emotional responses, but naming one region would not settle what happened or make a preferred exercise the right response.",
+      "heard": "Arousal describes physiological activation. It does not identify a unique emotion or its cause. Appraisal concerns what a situation means to the person. Emotion regulation can involve changing the situation, attention, interpretation, or response. Joe's Pulse does not tell us whether the experience is fear, frustration, exertion, or something else. Ask about the situation and Joe's account. Interacting brain and body processes support emotional responses, but naming one region would not settle what happened or make a preferred exercise the right response.",
+      "raw_sha256": "072e76f69d17eb5f009b87ec9e88e254d625f208ee63d7c10905d28615fecbbb"
+    },
+    {
+      "id": "c05s03b",
+      "expected": "A stress response involves coordinated brain and body processes, including autonomic activity and hormonal signalling. These can mobilise resources while also changing how attention and control operate. Its effects depend on the demand, duration, control and wider circumstances. Reappraisal changes an interpretation; it cannot supply missing staffing or resolve conflicting instructions by itself.\n\nA manageable misunderstanding might be clarified by asking a question. A persistent queue problem may need clearer roles, capacity or access to breaks. Choose the response that fits the actual difficulty. Mechanistic stress research offers possible explanations and constraints, not a direct diagnosis of Jo or proof that one regulation strategy suits every situation.",
+      "heard": "A stress response involves coordinated brain and body processes, including autonomic activity and hormonal signaling. These can mobilize resources while also changing how attention and control operate. Its effects depend on the demand, duration, control, and wider circumstances. Reappraisal changes in interpretation. It cannot supply missing staffing or resolve conflicting instructions by itself. A manageable misunderstanding might be clarified by asking a question. A persistent Q problem may need clearer roles, capacity, or access to breaks. Choose the response that fits the actual difficulty. Mechanistic stress research offers possible explanations and constraints, not a direct diagnosis of Joe or proof that one regulation strategy suits every situation.",
+      "raw_sha256": "11b12d77dd6c7f2b33452e16e9e3cb106799fe3c9fd0e9c6fc397376a013cf2f"
+    },
+    {
+      "id": "c05s06",
+      "expected": "Apply the idea to this new fictional case.\n\nA fictional workshop claims to remove chronic stress because participants report feeling calmer immediately afterwards.\n\nWhat should be checked before accepting the claim?\n\nA. Whether any brain change is mentioned in the advert.\n\nB. The measured outcomes, comparison and whether workload and other conditions changed.\n\nC. Whether a single pulse reading returns to a preferred value.\n\nChoose an option and write your reasoning before checking the feedback.",
+      "heard": "Apply the idea to this new fictional case. A fictional workshop claims to remove chronic stress because participants report feeling calmer immediately afterwards. What should be checked before accepting the claim? A. Whether any brain change is mentioned in the advert. B. The measured outcomes, comparison and weather workload, and other conditions changed. C. Whether a single pulse reading returns to a preferred value. Choose an option and write your reasoning before checking the feedback.",
+      "raw_sha256": "a069b33d95636ad783dae425d8f099edfdf8b3d4009f6d95ceaa539e9d84ac18"
+    },
+    {
+      "id": "c06s07-answers",
+      "expected": "Incubation concerns returning after time away; divergent thinking concerns generating possibilities; convergent checking concerns a suitable or correct answer. Success on one outcome does not establish success on all three.\n\nThe activity needs interpretation and a relevant comparison. Practical benefit still requires measured outcomes, an appropriate test and attention to the person and setting.",
+      "heard": "Incubation concerns returning after time away. Divergent thinking concerns generating possibilities. Convergent checking concerns a suitable or correct answer. Success on one outcome does not establish success on all three. The activity needs interpretation and a relevant comparison. Practical benefit still requires measured outcomes and appropriate test and attention to the person and setting.",
+      "raw_sha256": "a2f02897d398f2de7dce5099e5e800b1bf86e1e4c161b6072c7a81c2adbea98e"
+    },
+    {
+      "id": "c01s03b",
+      "expected": "A neural association links a measured signal with a condition or performance. It may help constrain an explanation without settling what caused the difference. Reverse inference goes in the other direction: from a brain observation to a claim about someone’s mental process.\n\nThat inference needs evidence about how specific the signal is, the comparison and the wider task. A region can participate in several processes. Comparisons involving damage to the nervous system, or controlled stimulation, can help test causal roles, but the affected networks and task still need consideration. Seeing a signal associated with attention would not, by itself, establish why Sam missed a detail or reveal a stable personal weakness.",
+      "heard": "A neural association links a measured signal with a condition or performance. It may help constrain an explanation without settling what caused the difference. Reverse inference goes in the other direction, from a brain observation to a claim about someone's mental process. That inference needs evidence about how specific the signal is, the comparison and the wider task. A region can participate in several processes. Comparisons involving damage to the nervous system or controlled stimulation can help test causal roles, but the affected networks and task still need consideration. Seeing a signal associated with attention would not, by itself, establish why SAM missed a detail or reveal a stable personal weakness.",
+      "raw_sha256": "1cf49bbc775462e1241a1e3908e90e9b07c85330e8130eef1cc6b1e9ed54bbcb"
+    },
+    {
+      "id": "c01s04",
+      "expected": "A mechanism explains how something might happen. An intervention changes a condition, and an outcome states what would count as useful improvement. A plausible mechanism can guide a proposal; it cannot substitute for checking the outcome.\n\nThe café could compare checking accuracy with two equally accessible instruction layouts. It would also ask about effort and details that were missed. A different brain signal after a workshop would not establish that visitors receive more accurate bookings. Choose the practical question before choosing a measurement.",
+      "heard": "A mechanism explains how something might happen. An intervention changes a condition, and an outcome states what would count as useful improvement. A plausible mechanism can guide a proposal. It cannot substitute for checking the outcome. The CAFE could compare checking accuracy with two equally accessible instruction layouts. It would also ask about effort and details that were missed. A different brain signal, after a workshop, would not establish that visitors receive more accurate bookings. Choose the practical question before choosing a measurement.",
+      "raw_sha256": "0866b9f479852895b8d063981383e30ecae87cc8710700b4b7b5366c32d945c6"
+    }
+  ]
+}

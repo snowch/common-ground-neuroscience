@@ -20,3 +20,5 @@ release-artifacts/
 qa/pacing-asr.log
 
 qa/course-case.png
+qa/browser-offline-mobile.png
+qa/playback-progress-mobile.png
